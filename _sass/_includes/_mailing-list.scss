@@ -1,3 +1,7 @@
+
+$form-element-medium-width: 250px;
+$form-element-small-width: 200px;
+
 .mailing-list {
 
   margin-bottom: $tsl-space-small;
@@ -33,7 +37,7 @@
   }
 
   input {
-    width: 250px;
+    width: 320px;
     margin-right: $tsl-space-small;
   }
 
@@ -47,8 +51,12 @@
       width: 250px;
     }
 
+    input {
+      width: $form-element-medium-width;
+    }
+
     p {
-      width: 250px;
+      width: $form-element-medium-width * 0.80;
     }
 
     input {
@@ -57,17 +65,17 @@
     }
   }
 
-  @media (max-width: 640px) {
+  @media (max-width: 320px) {
     .email-submit-buttom {
-      width: 200px;
+      width: $form-element-small-width;
     }
 
     input {
-      width: 200px;
+      width: $form-element-small-width;
     }
 
     p {
-      width: 175px;
+      width: $form-element-small-width * 0.80;
     }
   }
 }
