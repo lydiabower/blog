@@ -22,7 +22,12 @@ Before this happens, it’s a good idea to think about remortgaging, as you can 
 
 It’s important to bear in mind that lenders don’t sell specific ‘remortgage’ products: remortgaging is simply the process of taking out a new mortgage to pay off your old mortgage. This means that you have a wide range of options to choose from, just like when you first took out a mortgage.
 
-Here are a few ways you can search the market to compare remortgage deals and find the best remortgage rates.
+Here are a few ways you can search the market to compare remortgage deals and find the best remortgage rates:
+
+[Asking what your existing lender can offer](#asking-what-your-existing-lender-can-offer)  
+[Using a comparison website to find remortgage deals](#using-a-comparison-website-to-find-remortgage-deals)  
+[Using a broker to find remortgage deals](#using-a-broker-to-find-remortgage-deals)  
+[Using an online broker to find remortgage deals](#using-an-online-broker-to-find-remortgage-deals)
 
 ## Asking what your existing lender can offer
 Your existing provider may be keen to keep you as a customer, so there’s a chance they’ll offer you a competitive deal. But be sure to compare any offer with other mortgage deals on the market.
