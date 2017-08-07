@@ -11,7 +11,7 @@ date: '2017-08-01 T00:00:00.000Z'
 ---
 Panitsa joins Trussle as a Customer Success Associate after a stint in Australia working in the dreamy Whitsunday islands. 
 
-![Meet The Team Panitsa]({{site.baseurl}}//images/post_images/Panitsa.jpg)
+![Meet The Team Panitsa]({{site.baseurl}}/images/post_images/Panitsa.jpg)
 
 ## What made you want to join Trussle?
 I liked that Trussle was a young and vibrant company, dealing with something that a lot of people are scared of - mortgages! I liked the concept of making mortgages accessible, which Trussle is doing in an up-to-date way - modern expectations are different now and Trussle understands that. Company culture is really important to me too, and when I came to see the office, I got a good vibe. I think startups on the whole value culture more than some other companies, and that suits me.
