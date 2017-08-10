@@ -3,8 +3,8 @@ published: false
 layout: post
 title: 'Team Talk: Should You Hire A Specialist Or A Generalist To Scale Your Startup?'
 excerpt: >-
-  Panitsa joins Trussle as a Customer Success Associate after a stint in
-  Australia working in the dreamy Whitsundays.     
+  How do we decide who to hire to scale our startup? When you’re building a new
+  business, getting the right people on board is vital.     
 thumbnail_filename: PanitsaSquare.jpg
 author: Lydia Bower
 date: '2017-08-10 T00:00:00.000Z'
