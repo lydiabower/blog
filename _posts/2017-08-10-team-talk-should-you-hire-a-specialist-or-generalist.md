@@ -15,7 +15,6 @@ _How do we decide who to hire to scale our startup? When you’re building a new
 
 When our CEO Ishaan founded Trussle back in early 2015, his first two hires were software engineers (including myself). We set about trying to validate the idea that by using technology we could improve on an outdated and inefficient mortgage process. So we spent nine intense months in the back of our investors’ offices working on the first version of Trussle and trying to prove it.
 
-
 During those months we found ourselves multitasking and doing things that weren’t part of our job description - between us we covered branding, acquisition, design, operations, engineering, and customer success. By working together as a team the business started to take shape. We raised our seed round of funding less than a year later from investors LocalGlobe, Zoopla, and Seedcamp, meaning we could begin to grow the team. 
 
 ## Does a larger team provide a place for specialists?
