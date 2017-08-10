@@ -9,7 +9,7 @@ thumbnail_filename: SpecialistsVsGeneralistsSquare.jpg
 author: Lydia Bower
 date: '2017-08-10 T00:00:00.000Z'
 ---
-_How do we decide who to hire to scale our startup? When you’re building a new business, getting the right people on board is vital. Our Head of Engineering, Pete explains our thought process when it comes to hiring._ 
+_How do we decide who to hire to scale our startup? When you’re building a new business, getting the right people on board is vital. Our Head of Engineering, Pete, explains our thought process when it comes to hiring._ 
 
 ![Hiring specialists vs generalists]({{site.baseurl}}/images/post_images/SpecialistsVsGeneralists.jpg)
 
