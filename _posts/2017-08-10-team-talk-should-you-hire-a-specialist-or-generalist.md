@@ -49,7 +49,8 @@ When does generalism end and specialism begin? If you’re not an engineer, you 
 
 Maybe it’s not a matter of choosing between hiring specialists and generalists. Instead, maybe it’s a case of hiring people with a specialism who aren’t afraid to venture into the relative unknown to fill a task gap and get the job done. When I hire a Full Stack Engineer (a fancy way of saying ‘Generalist Software Engineer’), I still always ask myself what they’ll bring to the team that we don’t already have. This could be a proficiency in a certain area of technology, a different way of looking at the world of software, or even a diversity in personality. Either way, we don’t want to hire clones of ourselves - we want people to bring new ideas and new skills to widen our knowledge. 
 
-Although our team has now grown to over 40 and our engineering team has hit double digits, we still want to avoid hiring specialists who narrow their focus too deeply in their specialism comfort zone. Specialists can sometimes run the risk of having a cognitive bias in thinking that every problem can be solved using their particular specialism. We don’t want to fall into the ‘if you have a hammer, everything looks like a nail’ trap, which is why we hire specialists who aren’t afraid to generalise.
+Although our team has now grown to over 40 and our engineering team has hit double digits, we still want to avoid hiring specialists who narrow their focus too deeply in their specialism comfort zone. Specialists can sometimes run the risk of having a cognitive bias in thinking that every problem can be solved using their particular specialism. We don’t want to fall into the ‘if you have a hammer, everything looks like a nail' trap, which is why we hire specialists who aren’t afraid to generalise.
 
+_Psst, we’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle job vacancies") - we’d love to hear from you._
 
 
