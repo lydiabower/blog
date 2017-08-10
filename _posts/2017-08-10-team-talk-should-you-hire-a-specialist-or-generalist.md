@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Team Talk: Should You Hire A Specialist Or A Generalist To Scale Your Startup?'
 excerpt: >-
