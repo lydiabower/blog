@@ -3,13 +3,16 @@ published: false
 layout: post
 title: Can I Get A Mortgage Through My Company?
 excerpt: >-
-  How do we decide who to hire to scale our startup? When you’re building a new
-  business, getting the right people on board is vital.     
-thumbnail_filename: SpecialistsVsGeneralistsSquare.jpg
+  More people are now deciding to apply for their buy-to-let mortgage through
+  their company to enjoy the potential tax savings it brings. However, there are
+  certain criteria to meet to be eligible.     
+thumbnail_filename: MortgageThroughCompanySquare.jpg
 author: Lydia Bower
 date: '2017-08-11 T00:00:00.000Z'
 ---
 _More people are now deciding to apply for their buy-to-let mortgage through their company to enjoy the potential tax savings it brings. However, there are certain criteria to meet to be eligible, and it’s vital to speak to a tax adviser before applying._ 
+
+![Getting a mortgage through your company]({{site.baseurl}}/images/post_images/MortgageThroughCompany.jpg)
 
 
 ## What are the benefits of applying for a mortgage through my company?
