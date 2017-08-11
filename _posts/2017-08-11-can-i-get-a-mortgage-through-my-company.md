@@ -14,7 +14,6 @@ _More people are now deciding to apply for their buy-to-let mortgage through the
 
 ![Getting a mortgage through your company]({{site.baseurl}}/images/post_images/MortgageThroughCompany.jpg)
 
-
 ## What are the benefits of applying for a mortgage through my company?
 Most commonly, people decide to apply for a mortgage through their limited company to save money on tax. 
 
