@@ -60,4 +60,3 @@ The number of deals you’re eligible for when applying for a mortgage is smalle
 The restrictions tend to be around the amount of loan-to-value (LTV) you have access to - whilst those with permanent residency may be able to access deals of up to 95%, this is more difficult if you’re on a visa. 
 
 
-**Trying to find a mortgage on a visa?** Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta "Get started here").
