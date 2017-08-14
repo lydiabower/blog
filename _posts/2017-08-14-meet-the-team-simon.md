@@ -3,13 +3,15 @@ published: false
 layout: post
 title: 'Meet The Team: Simon'
 excerpt: >-
-  Panitsa joins Trussle as a Customer Success Associate after a stint in
-  Australia working in the dreamy Whitsundays.     
-thumbnail_filename: PanitsaSquare.jpg
+  Simon joins Trussle as a Senior Software Engineer, splitting his time between
+  the hills of Yorkshire and the London metropolis.      
+thumbnail_filename: SimonSquare.jpg
 author: Lydia Bower
 date: '2017-08-14 T00:00:00.000Z'
 ---
 Simon joins Trussle as a Senior Software Engineer, splitting his time between the hills of Yorkshire and the London metropolis. 
+
+![Simon]({{site.baseurl}}/images/post_images/Simon.jpg)
 
 ## What brought you to Trussle?
 Initially I was drawn to Trussle because most importantly, I’m interested in technology. I hated getting a mortgage the first time, and remortgaging further down the line wasn’t any better. 
@@ -38,4 +40,4 @@ Originally, I was a print designer. I used to design PlayStation games covers wo
 ## What’s your favourite film?
 Interstellar. I love Christopher Nolan.
 
-Inspired by Simon’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we’d love to hear from you.
+_**Inspired by Simon’s story?** We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we’d love to hear from you._
