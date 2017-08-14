@@ -88,7 +88,7 @@ There’s no such thing as a ‘remortgage mortgage’ - instead, remortgaging i
 - Fixed, tracker and variable rates
 - Capped rate mortgages
 - Flexible mortgages 
-- First-time buyer mortgages
+- First-time buyer mortgages (although we can't help if you're using a Help to Buy scheme)
 - Buy-to-let mortgages
 - Mortgages if you have bad credit
 
