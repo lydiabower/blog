@@ -59,6 +59,8 @@ Buying your first home is one of the most exciting purchases you’ll ever make.
 
 The government’s [Help to Buy](https://www.helptobuy.gov.uk/) scheme is also available to first-time buyers, although you’ll need to meet certain eligibility criteria to qualify. 
 
+_Note: We’re working towards supporting government schemes including Help to Buy, but are unable to provide this service just yet. For now, we’re focusing on one thing at a time in our effort to deliver the best possible mortgage experience for everyone. Follow us on [Facebook](https://www.facebook.com/hellotrussle), [LinkedIn](https://www.linkedin.com/company-beta/10234615/), or [Twitter](https://twitter.com/Trussle) to be the first to know when we support this service._
+
 ### Buy-to-let mortgages
 If you’re buying a property with the sole intention of renting it out, you’ll need a buy-to-let mortgage. Many landlords who are investing in property to generate an income choose interest-only mortgages to keep monthly payments low and maximise their returns. 
 
@@ -88,7 +90,7 @@ There’s no such thing as a ‘remortgage mortgage’ - instead, remortgaging i
 - Fixed, tracker and variable rates
 - Capped rate mortgages
 - Flexible mortgages 
-- First-time buyer mortgages (although we can't help if you're using a Help to Buy scheme)
+- First-time buyer mortgages (although we can't currently help if you're using a Help to Buy, or any other government scheme)
 - Buy-to-let mortgages
 - Mortgages if you have bad credit
 
