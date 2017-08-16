@@ -71,9 +71,9 @@ Nyasha was impressed with the service she received from everyone at Trussle.
 ## Life in the slow(er) lane
 Despite traveling more than double the distance, Nyasha’s commute from Hastings takes less time than her old commute from south east London! And she has a wonderful new flat to call home.
 
-We love hearing about how we’ve helped our customers find a mortgage that’s right for them. You can read more about our customers’ experiences on [Trustpilot](https://www.trustpilot.com/review/trussle.com).
+_We love hearing about how we’ve helped our customers find a mortgage that’s right for them. You can read more about our customers’ experiences on [Trustpilot](https://www.trustpilot.com/review/trussle.com)._
 
-**Looking for a hassle-free mortgage experience?** Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
+_**Looking for a hassle-free mortgage experience?** Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503)._
 
 
 
