@@ -46,7 +46,7 @@ There is help available for those struggling to save up for a larger deposit. Th
 
 Pay a maximum of £3,000 a month into the ISA and you’ll receive a government bonus when you put down your deposit, although there’s certain eligibility criteria to be met: the property must be a new build, and can’t be worth more than £250,000. 
 
-At Trussle, we’re working towards supporting the Help to Buy scheme. As we’re focusing on one thing at a time in our effort to deliver the best possible mortgage experience for everyone, unfortunately this means that we can’t help those using the Help to Buy scheme just yet.
+_Note: We’re working towards supporting government schemes including Help to Buy, but are unable to provide this service just yet. For now, we’re focusing on one thing at a time in our effort to deliver the best possible mortgage experience for everyone. Follow us on [Facebook](https://www.facebook.com/hellotrussle), [LinkedIn](https://www.linkedin.com/company-beta/10234615/), or [Twitter](https://twitter.com/Trussle) to be the first to know when we support this service._
    
 
 ### Shared Ownership
@@ -54,7 +54,7 @@ Shared ownership can offer an alternative if you have a small deposit and are st
 
 To be eligible for shared ownership, your household income must be less than £60,000. Most people who opt for shared ownership are first-time buyers, but you’ll be eligible for the scheme if you’ve previously owned a home but can’t afford to buy now. You’ll also be eligible if you’re renting from the council or living in a housing association property. 
 
-At Trussle, we’re working towards supporting Shared Ownership schemes. As we’re focusing on one thing at a time in our effort to deliver the best possible mortgage experience for everyone, unfortunately this means that we can’t help those using Shared Ownership schemes just yet. 
+_Note: We’re working towards supporting government schemes including Shared Ownership, but are unable to provide this service just yet. For now, we’re focusing on one thing at a time in our effort to deliver the best possible mortgage experience for everyone. Follow us on [Facebook](https://www.facebook.com/hellotrussle), [LinkedIn](https://www.linkedin.com/company-beta/10234615/), or [Twitter](https://twitter.com/Trussle) to be the first to know when we support this service._
 
 ### Bank of Mum and Dad
 Not everyone is fortunate enough to rely on their parents or family for help with a deposit, but the stories of parents stepping in to help their children get on the property ladder are becoming more common. As the average price of a home in the UK rises above 10 times the average salary, the ‘Bank of Mum and Dad’ is expected to [lend over £6.5 billion this year](https://www.theguardian.com/business/2017/may/02/bank-of-mum-and-dad-lend-65bn-property-market "Bank of Mum and Dad").
