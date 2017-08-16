@@ -11,7 +11,7 @@ date: '2017-08-16 T00:00:00.000Z'
 ---
 Buying your own home should be one of the most exciting times of your life. For too long, it’s been overshadowed by the inaccessible and complicated process of getting a mortgage. At Trussle, we’re working to change that, putting you at the centre of the mortgage process. 
 
-We love hearing your experiences about how Trussle was able to secure the right mortgage for you. In this story, we hear from Nyasha, a nurse working in London, who came to Trussle wanting to fulfil her lifelong dream of living by the sea. 
+We love hearing your experiences about how Trussle was able to secure the right mortgage for you. In this story, we hear from Nyasha, a Liaison Psychiatry Specialist nurse working in London, who came to Trussle wanting to fulfil her lifelong dream of living by the sea. 
 
 ![Nyasha]({{site.baseurl}}/images/post_images/Nyasha.jpg)
  
