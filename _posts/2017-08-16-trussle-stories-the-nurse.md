@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Trussle Stories: The Nurse'
 excerpt: >-
@@ -9,7 +9,7 @@ thumbnail_filename: NyashaSqaure.jpg
 author: Lydia Bower
 date: '2017-08-16 T00:00:00.000Z'
 ---
-Buying your own home should be one of the most exciting times of your life. For too long, it’s been overshadowed by the inaccessible and complicated process of getting a mortgage. At Trussle, we’re working to change that, putting you - the customer - at the centre of the mortgage process. 
+Buying your own home should be one of the most exciting times of your life. For too long, it’s been overshadowed by the inaccessible and complicated process of getting a mortgage. At Trussle, we’re working to change that, putting you at the centre of the mortgage process. 
 
 We love hearing your experiences about how Trussle was able to secure the right mortgage for you. In this story, we hear from Nyasha, a nurse working in London, who came to Trussle wanting to fulfil her lifelong dream of living by the sea. 
 
@@ -36,7 +36,9 @@ As Nyasha hadn’t heard of Trussle at this point, she did some of her own resea
 
 Nyasha found a home in Hastings, a stone’s throw from the beach - and fell in love with it. The initial plan was to buy the flat to rent out, but things didn’t quite work out and she had a change of heart. 
 
-Nyasha decided to bite the bullet and buy the flat to live in full time. 
+Nyasha decided to bite the bullet and buy the flat to live in full time.
+
+![Hastings]({{site.baseurl}}/images/post_images/HastingsCliffs.jpg)
 
 > ‘I’ve lived in London my whole life, but always wanted to live by the sea. I had a difficult year and thought, ‘Why not?’ Moving to the coast has always been something I’ve wanted to do, and there’s no time like the present.’
 
