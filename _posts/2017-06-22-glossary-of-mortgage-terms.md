@@ -79,8 +79,10 @@ When an offer is accepted by a seller, but then another buyer comes in with a hi
 ### Higher lending charge
 You’ll often pay a higher lending charge if you have a high [loan to value (LTV](https://trussle.com/blog/how-your-deposit-affects-your-mortgage-rate)) ratio. 
  
-### Help to buy
+### Help to Buy
 Government schemes to help first-time buyers get on the housing ladder. 
+
+_Note: We’re working towards supporting government schemes including Help to Buy, but are unable to provide this service just yet. For now, we’re focusing on one thing at a time in our effort to deliver the best possible mortgage experience for everyone. Follow us on [Facebook](https://www.facebook.com/hellotrussle), [LinkedIn](https://www.linkedin.com/company-beta/10234615/), or [Twitter](https://twitter.com/Trussle) to be the first to know when we support this service._
  
 ### Initial term
 Most mortgages have an initial term, or introductory period, of between 1 and 5 years. You’re usually moved onto your lender’s SVR after your initial term, at which point it’s a good idea to remortgage to avoid paying an unnecessary higher rate. 
@@ -122,12 +124,16 @@ With a shared equity mortgage, your lender will agree to give you a loan to form
  
 ### Shared ownership
 Shared ownership gives you the opportunity to own a part of your home. You buy a share of the property and pay reduced rent on the remainder at a discounted rate. Shared ownership is most popular with first time buyers.
+
+_Note: We’re working towards supporting government schemes including Shared Ownership, but are unable to provide this service just yet. For now, we’re focusing on one thing at a time in our effort to deliver the best possible mortgage experience for everyone. Follow us on [Facebook](https://www.facebook.com/hellotrussle), [LinkedIn](https://www.linkedin.com/company-beta/10234615/), or [Twitter](https://twitter.com/Trussle) to be the first to know when we support this service._
  
 ### Standard Variable Rate (SVR)
 Every lender has an [SVR](https://trussle.com/blog/what-is-a-standard-variable-rate), which usually tracks above the base rate. 
  
 ### Right to buy
 Right to buy allows most council tenants to buy their home at a discount.
+
+_Note: We’re working towards supporting government schemes including Right to Buy, but are unable to provide this service just yet. For now, we’re focusing on one thing at a time in our effort to deliver the best possible mortgage experience for everyone. Follow us on [Facebook](https://www.facebook.com/hellotrussle), [LinkedIn](https://www.linkedin.com/company-beta/10234615/), or [Twitter](https://twitter.com/Trussle) to be the first to know when we support this service._
  
 ### Tracker mortgage
 A kind of [variable rate mortgage](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained#variable-rate-mortgage). A [tracker mortgage](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained#tracker) tracks a rate - usually the Bank of England’s base rate, meaning your monthly payments will change with changes to the base rate.   
