@@ -57,6 +57,4 @@ Having a longer period of time left on your visa when applying for a mortgage al
 ## What kind of mortgage rate can I expect on a visa? 
 The number of deals you’re eligible for when applying for a mortgage is smaller, so you may not be eligible for some of the cheaper deals. Market leading rates tend to have more restrictive rules when it comes to who’s eligible for them.
 
-The restrictions tend to be around the amount of loan-to-value (LTV) you have access to - whilst those with permanent residency may be able to access deals of up to 95%, this is more difficult if you’re on a visa. 
-
-
+The restrictions tend to be around the amount of loan-to-value (LTV) you have access to - whilst those with permanent residency may be able to access deals of up to 95%, this is more difficult if you’re on a visa.
