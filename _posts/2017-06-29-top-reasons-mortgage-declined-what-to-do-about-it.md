@@ -40,6 +40,8 @@ Remember that each mortgage lender has their own way of making calculations, and
 
 If your mortgage application has been declined because you’re not earning enough money, you may have to save for a larger deposit or consider cheaper properties so that you can apply for a lower mortgage amount. You could also consider one of the government’s [Help to Buy or shared ownership schemes](https://www.gov.uk/affordable-home-ownership-schemes). 
 
+_Note: We’re working towards supporting government schemes including Help to Buy and shared ownership, but are unable to provide this service just yet. For now, we’re focusing on one thing at a time in our effort to deliver the best possible mortgage experience for everyone. Follow us on [Facebook](https://www.facebook.com/hellotrussle), [LinkedIn](https://www.linkedin.com/company-beta/10234615/), or [Twitter](https://twitter.com/Trussle) to be the first to know when we support this service._
+
 See our article [How Your Salary Affects Your Mortgage Amount](https://trussle.com/blog/how-salary-affects-mortgage) for more information.
 
 ### Your deposit is too small 
