@@ -17,7 +17,7 @@ _More people are now deciding to apply for their buy-to-let mortgage through the
 ## What are the benefits of applying for a mortgage through my company?
 Most commonly, people decide to apply for a mortgage through their limited company to save money on tax. 
 
-Generally speaking, you’ll find that you can borrow more when you apply for a mortgage through your limited company than borrowing personally. This is because limited companies aren’t subject to the [stricter affordability checks on personal buy-to-let borrowing](http://www.bankofengland.co.uk/pra/Documents/publications/ss/2016/ss1316.pdf "BTL lending checks") introduced in January 2017. 
+Generally speaking, you’ll find that you can borrow more when you apply for a mortgage through your limited company than borrowing personally. This is because limited companies aren’t subject to the stricter affordability checks on personal buy-to-let borrowing [introduced in January 2017](http://www.bankofengland.co.uk/pra/Documents/publications/ss/2016/ss1316.pdf). 
 
 There are other benefits too. By getting a mortgage through a limited company, you pay corporation tax on the rental income of the property at a lower rate than income tax. However, the savings made only really affect higher rate taxpayers paying the 40% tax rate. 
 
