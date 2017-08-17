@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Can I Get A Mortgage Through My Company?
 excerpt: >-
@@ -8,7 +8,7 @@ excerpt: >-
   certain criteria to meet to be eligible.     
 thumbnail_filename: MortgageThroughCompanySquare.jpg
 author: Lydia Bower
-date: '2017-08-11 T00:00:00.000Z'
+date: '2017-08-17 T00:00:00.000Z'
 ---
 _More people are now deciding to apply for their buy-to-let mortgage through their company to enjoy the potential tax savings it brings. However, there are certain criteria to meet to be eligible, and it’s vital to speak to a tax adviser before applying._ 
 
@@ -51,16 +51,3 @@ Not all lenders allow you to apply for a mortgage through your limited company. 
 
 **Looking for a hassle-free mortgage experience?**
 Get a quick, honest, and fee-free service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503 "Get started with Trussle").
-
-
-
- 
- 
-
-
-
-
-
-
-
-
