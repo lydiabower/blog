@@ -13,6 +13,7 @@ date: '2017-08-21 T00:00:00.000Z'
 Alice joins Trussle as our Data Analytics Lead after a few months travelling the world. She’s in charge of making sure we’re making the best use of the data we receive so we can better understand our customers and their preferences - so it’s a big job! 
 
 ![Alice]({{site.baseurl}}/images/post_images/Alice.jpg)
+![AliceSquare.jpg]({{site.baseurl}}/images/post_images/AliceSquare.jpg)
 
 ## What attracted you to join Trussle?
 I had a number of criteria to meet when I was looking for a job, and Trussle ticked all my boxes. Although I haven’t had any previous experience working in mortgages, I liked the vision of Trussle and what the company was set up to achieve. Trussle’s using tech for a good cause: helping people get a mortgage and allowing them to live their lives rather than wasting time with admin. I thought the team was cool too! 
