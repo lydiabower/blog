@@ -3,8 +3,9 @@ published: false
 layout: post
 title: 'Meet The Team: Alice'
 excerpt: >-
-  In this story, we hear from Nyasha, a nurse working in London, who came to
-  Trussle wanting to fulfil her lifelong dream of living by the sea.      
+  Alice joins Trussle as our Data Analytics Lead, making sure we’re making the
+  best use of the data we receive so we can better understand our customers and
+  their preferences. 
 thumbnail_filename: NyashaSqaure.jpg
 author: Lydia Bower
 date: '2017-08-21 T00:00:00.000Z'
