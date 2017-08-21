@@ -17,7 +17,7 @@ Alice joins Trussle as our Data Analytics Lead after a few months travelling the
 ## What attracted you to join Trussle?
 I had a number of criteria to meet when I was looking for a job, and Trussle ticked all my boxes. Although I haven’t had any previous experience working in mortgages, I liked the vision of Trussle and what the company was set up to achieve. Trussle’s using tech for a good cause: helping people get a mortgage and allowing them to live their lives rather than wasting time with admin. I thought the team was cool too! 
 
-## How did you get into the role you’re in?
+## How did you get into the role you’re in?
 I didn’t do a maths based degree - I did European Studies at Trinity College in Dublin, but I did a programing course after uni at General Assembly. I then went on to join a tech venture capital firm where I worked in a team building a live sports streaming app. Part of the role was data analytics which I really enjoyed, and as I wanted to specialise, I decided to go into it full time. 
 
 ## What were you doing before joining Trussle?
