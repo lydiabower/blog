@@ -3,16 +3,15 @@ published: false
 layout: post
 title: 'Meet The Team: Curtis'
 excerpt: >-
-  Alice joins Trussle as our Data Analytics Lead, making sure we’re making the
-  best use of the data we receive so we can better understand our customers and
-  their preferences. 
-thumbnail_filename: AliceSquare.jpg
+  Curtis saw how technology could improve the process of finding a mortgage, and
+  when he came across Trussle, he knew it was the company for him.  
+thumbnail_filename: CurtisSquare.jpg
 author: Lydia Bower
 date: '2017-08-29 T00:00:00.000Z'
 ---
 Curtis is the newest mortgage adviser to join Trussle, having learnt his trade at a traditional broker. He saw how technology could improve the process of finding a mortgage, and when he came across Trussle, Curtis knew it was the company for him. 
 
-
+![Curtis]({{site.baseurl}}/images/post_images/Curtis.jpg)
 
 ## What attracted you to Trussle?
 I used to work for a traditional mortgage broker and from what I saw there, the whole industry was pretty old school - technology was kept to a minimum! Being part of a younger generation than most of my colleagues, I thought there were things we could do to improve the journey for customers, but also for us as the adviser. When I was looking for a job and came across Trussle, I knew it was the place I wanted to be. I like what Trussle’s trying to achieve and the ethos, plus it’s exciting to be part of a startup.
