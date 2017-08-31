@@ -92,7 +92,6 @@ There’s no such thing as a ‘remortgage mortgage’ - instead, remortgaging i
 - Flexible mortgages 
 - First-time buyer mortgages (although we can't currently help if you're using a Help to Buy, or any other government scheme)
 - Buy-to-let mortgages
-- Mortgages if you have bad credit
 
 **Commercial mortgages**  
 We don’t help with commercial mortgages directly, but you can still apply for one through us. Our partner will then manage your application.
