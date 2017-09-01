@@ -6,14 +6,13 @@ excerpt: >-
   It’s important to understand the difference between the two types of credit
   check, as too many hard credit checks can damage your credit rating. A soft
   credit check, however, doesn’t leave a mark on your credit report.      
-thumbnail_filename: NyashaSqaure.jpg
+thumbnail_filename: creditcheckssqure.jpg
 author: Lydia Bower
 date: '2017-09-01 T00:00:00.000Z'
 ---
 _There are two types of credit check: soft checks and hard checks. It’s important to understand the difference between both, as too many hard credit checks can damage your credit rating. A soft credit check, however, doesn’t leave a mark on your credit report._ 
 
 ![CreditChecks]({{site.baseurl}}/images/post_images/creditchecks.jpg)
-
 
 When a lender looks at your credit history to see your borrowing and credit habits, this is known as a credit check, or credit search. 
 
@@ -54,4 +53,6 @@ However, if there’s a significant amount of time between receiving your Decisi
 
 ## Does Trussle run a credit check?
 We don’t run a credit check ourselves, but once we’ve submitted your application to the lender, they’ll run their own hard credit check before deciding whether to lend to you. 
+
+**Looking for a hassle-free mortgage experience?** Get a quick, honest, and fee-free service from Trussle. [Get started here.](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503 "Trussle") 
 
