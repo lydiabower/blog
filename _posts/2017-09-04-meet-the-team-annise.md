@@ -10,7 +10,7 @@ thumbnail_filename: annise1square.jpg
 author: Lydia Bower
 date: '2017-09-04 T00:00:00.000Z'
 ---
-_Annise joins Trussle as a Product Manager, working with our engineers and the business more generally to decide what tools we need to build to make our service the best it can be. It’s her job to decide the most important things we should be focusing on given the time and resources we have available._
+_Annise joins Trussle as a Product Manager, working strategically with our engineers to decide which tools we need to build to make our service the best it can be. It’s her job to find out what our customers want to see, so we can work out the most important things we should be focusing on given the time and resources we have available._
 
 ![Annise]({{site.baseurl}}/images/post_images/annise1.jpg)
 
