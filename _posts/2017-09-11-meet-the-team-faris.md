@@ -3,14 +3,16 @@ published: false
 layout: post
 title: 'Meet The Team: Faris'
 excerpt: >-
-  Annise joins Trussle as a Product Manager, working strategically with our
-  engineers to decide which tools we need to build to make our service the best
-  it can be.      
-thumbnail_filename: annise1square.jpg
+  Faris joins Trussle as a Product Manager, working with our developers and the
+  wider business to grow the number of people we can help find a
+  mortgage.       
+thumbnail_filename: FarisSquare.jpg
 author: Lydia Bower
 date: '2017-09-11 T00:00:00.000Z'
 ---
 Faris joins Trussle as a Product Manager, working with our developers and the wider business to grow the number of people we can help find a mortgage. 
+ 
+![Faris]({{site.baseurl}}/images/post_images/Faris.jpg)
  
 ## What attracted you to join Trussle?
 I joined Trussle because I wanted to see the tangible impact of my work more quickly. In larger companies you feel further away from the action - sometimes you’ll be waiting several months to see any results. I like the idea of a smaller company too as you get to know people much better and there’s more of a family vibe. It’s easy to get lost in a big company!
