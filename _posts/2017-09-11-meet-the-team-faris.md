@@ -44,3 +44,4 @@ Radiohead and Stormzy were pretty great at Glastonbury.
 ## Another company you admire?
 I love Amazon, specifically Amazon Prime. I spend way more than I should just because it’s so easy. They have one of the most effective customer loyalty programs I’ve ever used, especially around Christmas. 
 
+_**Inspired by Faris’s story? We’re hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle vacancies") - we’d love to hear from you._
