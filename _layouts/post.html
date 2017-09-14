@@ -4,7 +4,7 @@ published: true
 ---
 
 <div class="breadcrumbs">
-  <a href="{{ site.baseurl }}">Trussle Blog</a>
+  <a href="{{ site.baseurl }}/">Trussle Blog</a>
   &raquo;
   {{ page.title }}
 </div>
@@ -26,9 +26,12 @@ published: true
         {{ page.date | date: " %B %Y" }}
       </time>
     </p>
+  </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+
+    {% include cta-strip.html %}
   </div>
     {% include mailing-list.html %}
     {% include trussle-banner.html %}
