@@ -1,9 +1,11 @@
 <header class="site-header">
-  <a class="site-logo-link" href="{{ site.url }}/">
+  <a class="site-logo-link" href="{{ site.baseurl }}/">
     <img class="site-logo" src="{{ "/images/logos/trussle-logo-green.png" | prepend: site.baseurl }}" alt="{{ site.title }}" />
   </a>
 
   <a class="go-to-main-site-button" href="https://trussle.com">Go to trussle.com</a>
 </header>
 
-{% include intro.html %}
+<div class="page-content">
+  {% include cta-strip.html %}
+</div>
