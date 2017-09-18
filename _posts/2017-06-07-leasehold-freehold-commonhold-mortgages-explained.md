@@ -77,6 +77,4 @@ Each flat owner is part of a Commonhold Association (the equivalent of a residen
 There wasn’t much takeup for commonhold properties when they were introduced. As a result, there aren’t many commonhold homes around. Given that developers can make a lot of money from charging ground rent and service charges, as well as by selling leases, it’s not surprising that new flats are rarely built as commonhold. 
 
 It’s possible to get a mortgage on a commonhold property, but it can be tricky. Many big lenders don’t offer commonhold mortgages, so the mortgage options are limited. Commonhold mortgages can also have higher rates than leasehold mortgages.   
- 
-**Looking for a hassle-free mortgage experience?**
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170601).
+
