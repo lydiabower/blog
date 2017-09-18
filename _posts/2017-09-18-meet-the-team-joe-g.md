@@ -28,7 +28,7 @@ I’m into fitness and anything active, even if it’s just running around and b
 ## If you weren’t a mortgage adviser, what would you be?
 I’d love to be a scuba diver instructor. You just need the money behind you to do it! 
 
-How did you get into mortgage advising?
+## How did you get into mortgage advising?
 The same old story - I fell into it. I was away for about 26 months, travelling in the US, then living in Australia right by Bondi beach for two years before backpacking around south east Asia. I arrived back in London with £40 to my name which, living in London, went in about two seconds, so I needed to find a job. I had a friend at Lloyds Bank who landed me an interview to be a mortgage adviser, I got the job and didn’t look back!
 
 ## What was your first job out of uni?
@@ -39,4 +39,6 @@ I love being in a position to help more people. At Trussle, I can completely foc
 
 ## Best band you’ve seen live?
 Foals. Although recently I saw the DMAs, an Aussie band who I reckon are ones to watch.
+
+_**Inspired by Joe’s story? We’re hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you._
 
