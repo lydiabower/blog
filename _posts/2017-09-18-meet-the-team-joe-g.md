@@ -37,6 +37,6 @@ I finished uni in 2008 and graduated straight into the recession. There were no 
 I love being in a position to help more people. At Trussle, I can completely focus on helping people find a mortgage, while when I was working at the estate agent, I had other distractions like trying to convince people to use us as their broker. Trussle takes out the sales pitch and lets you work on the part you’re meant to - finding people the right mortgage! I’d say that’s the best part of the job - that and being in the office which is good fun.
 
 ## Best band you’ve seen live?
-Foals. Although recently I saw the DMAs, an Aussie band who I reckon are ones to watch.
+Foals. Although recently I saw DMAs, an Aussie band who I reckon are ones to watch.
 
 _**Inspired by Joe’s story? We’re hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you._
