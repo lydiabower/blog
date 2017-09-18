@@ -44,4 +44,4 @@ Emile agreed to this new approach and we submitted his new application to the le
 
 > “Having little understanding of the home buying process in the UK, I was initially concerned. Thanks to Trussle, I needn’t have worried. I couldn’t be happier with the service I’ve received.”
 
-**Many customers of Trussle have left their own reviews. [Read them here](https://uk.trustpilot.com/review/trussle.com).**
+
