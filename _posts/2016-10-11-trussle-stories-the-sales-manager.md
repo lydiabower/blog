@@ -50,6 +50,6 @@ Once again, our mortgage monitoring system was able to flag that a more suitable
 
 > “We couldn’t believe how quickly Trussle reacted when the markets changed. It really felt like they were looking out for us! We’re very happy with the experience.”
 
-{% include image/center.html filename="yanneth-new-home.jpeg" caption="Yanneth's family outside their new home" %}
+{% include image/center.html filename="yanneth-new-home.jpg" caption="Yanneth's family outside their new home" %}
 
 **Many customers of Trussle have left their own reviews. [Read them here](https://uk.trustpilot.com/review/trussle.com).**

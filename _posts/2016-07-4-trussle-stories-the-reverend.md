@@ -4,10 +4,10 @@ layout: post
 author: Oli West
 author_twitter: oliwesbiz
 excerpt: "It’s a church reverend who begins our Trussle Stories series, shedding light on the \tmany people who chose Trussle for a more straightforward mortgage experience."
-thumbnail_filename: Ant_square.jpeg
+thumbnail_filename: Ant_square.jpg
 title: 'Trussle Stories: The Reverend'
 ---
-{% include image/left.html filename="Church.jpeg" %}
+{% include image/left.html filename="Church.jpg" %}
 
 At Trussle we put our customers first. We speak with them regularly to find out why they choose our online service to get a mortgage instead of their bank or a traditional high-street adviser.
 
@@ -31,7 +31,7 @@ In the end, the bank refused to offer Ant the mortgage because of an unforeseen 
 
 We first spoke to Ant a few hours after he’d completed our quick online application form.
 
-{% include image/center.html filename="Ant.jpeg" %}
+{% include image/center.html filename="Ant.jpg" %}
 
 > “In a world where complicated forms and broken promises seem to be the norm where anything to do with finance is concerned, I was pleasantly surprised by Trussle. It was very convenient.”
 
