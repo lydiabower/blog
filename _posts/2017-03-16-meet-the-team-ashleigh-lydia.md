@@ -45,7 +45,7 @@ Bring sunscreen! You might not think you’re burning, but you’ll only make th
 Lydia moved to London a couple of years ago, and was working at another property company before joining Trussle. Originally from Lancashire, Lydia loves going up north to enjoy some proper fresh air and northern humour, but makes the most of the opportunities to eat, drink, and socialise in the best city in the world (apparently). 
 
 ## Describe yourself in a nutshell:
-Fast walker, traveller, mountain lover, list-maker, avid reader, occasional runner, part time health enthusiast (I have a penchant for pastry).
+Fast walker, mountain lover, list-maker, avid reader, occasional runner, part time health enthusiast (I have a penchant for pastry).
 
 ## What attracted you to work for Trussle?
 I was keen to get involved with Fintech - it’s such an exciting space that’s growing so quickly, and as I have experience working in property, I thought Trussle would be an ideal mix of the two. I heard back from the team after my interview via a Spotify playlist called ‘You Got It’ - with a handcrafted selection of songs telling me the role was mine. Definitely the coolest way I’ve ever been offered a job. 
@@ -57,12 +57,12 @@ I sit in the Marketing team, and write content for the blog, website, and newsle
 Amelie. 
 
 ## Favourite sport?
-Does skiing count? I did a season a few years ago but it got cut short as I was airlifted off the mountain twice in a month. I’m pretty slow on the slopes now but it’s still good fun. 
+Does skiing count? I did a season a few years ago but it got cut short as I was airlifted off the mountain twice in a month. I’m pretty slow on the slopes now but I like the apres part. 
 
 ## Favourite podcast? 
-Woman's Hour. I’m not normally a Radio 4 kind of person but they cover so much interesting and relevant stuff. Oh and I loved My Dad Wrote A Porno when it was on.
+Woman's Hour. I’m not normally a Radio 4 kind of person but they cover so much relevant stuff. Oh and I loved My Dad Wrote A Porno when it was on.
 
 ## Best book you’ve read recently? 
-We Are All Completely Beside Ourselves by Karen Joy Fowler was gripping.
+We Are All Completely Beside Ourselves by Karen Joy Fowler.
 
 _**Inspired by Ashleigh and Lydia's story? We're hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we'd love to hear from you.**_
