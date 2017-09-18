@@ -78,6 +78,3 @@ Your mortgage application may be declined because your job is relatively new, es
 Although you can get a mortgage when you’re self-employed, it can be a little trickier. Your mortgage application may be declined because your business is relatively new, because your earnings aren’t stable enough, or because you can’t show that your business is likely to remain successful.
 
 See our article [Getting A Mortgage If You’re Self-Employed](https://trussle.com/blog/getting-a-mortgage-self-employed) for more details.
-
-## Looking for a hassle-free mortgage experience?
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
