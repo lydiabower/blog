@@ -89,6 +89,3 @@ Trussle mortgage adviser, Deeksha, thinks getting mortgage advice is vital befor
 It’s easy to get in touch with us if there’s anything you’re unsure about - simply drop us a message using the livechat box in the bottom right hand side of both your Trussle Timeline and this page. We’re most responsive during the day (you can expect an answer within minutes), but you can message us anytime - we’ll always get back to you within 24 hours. 
 
 
-Looking for a hassle-free mortgage experience?
-
-Get a quick, honest, and fee-free mortgage service from Trussle. Get started [here](https://trussle.com/).
