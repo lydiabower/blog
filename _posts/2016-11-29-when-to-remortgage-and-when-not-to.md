@@ -67,5 +67,4 @@ A free service like Trussle’s [mortgage monitor](http://trussle.com/remortgage
 
 When it’s time to think about remortgaging - either three months before your lender’s Standard Variable Rate is applied, or when a better deal is available during your initial term - Trussle will notify you and help you switch to the right mortgage to suit your needs.
 
-### Find out if you could save in 60 seconds
-See how hassle-free remortgaging can be with Trussle. Use our [remortgage calculator](https://apply.trussle.com/remortgage-quick-check?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503) to see if you could save.
+
