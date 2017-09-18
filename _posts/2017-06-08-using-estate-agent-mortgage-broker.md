@@ -74,5 +74,3 @@ It’s advisable to use a mortgage broker if your income is complicated - for in
 Online mortgage brokers like [Trussle](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503) give you the benefit of managing your application online, and even from your mobile. You’ll still get the same personal service from a real adviser - just at a time that suits you.
 
 
-**Looking for a hassle-free mortgage experience?**  
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
