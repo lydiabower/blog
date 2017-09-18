@@ -43,6 +43,3 @@ You’re more likely to receive a fast decision if you have a good credit histor
 
 ## Will I get an offer in time to secure my new home?
 Your adviser will recommend a deal that suits your specific circumstances. If time is pressing and you need an offer quickly - for example, you’re buying a new build property and you need a mortgage offer to secure your purchase, your adviser will make a recommendation favouring the lenders that are likely to meet your deadline. 
-
-**Looking for a hassle-free mortgage experience?**  
-Get a quick, honest, and fee-free service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503 "Get started with Trussle"). 
