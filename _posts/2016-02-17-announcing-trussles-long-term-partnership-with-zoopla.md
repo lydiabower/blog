@@ -34,4 +34,3 @@ Trussle was born out of a simple but widely-experienced frustration; why is it s
 
 Trussle is the new hassle-free way to get a mortgage. We help first-time buyers and existing homeowners save time and money securing a great-value mortgage online. We then continue to monitor your mortgage and help you switch to a better deal later on, so you’re never paying more than you should.
 
-Check out [trussle.com](https://www.trussle.com) and see what you could save on your mortgage.
