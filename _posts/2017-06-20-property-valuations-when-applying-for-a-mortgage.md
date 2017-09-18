@@ -62,8 +62,4 @@ It’s important to understand that the property valuation is not the same as a 
 When you’re buying a property, it’s important to get a homebuyer survey so that you’re aware of any issues with the building before you go ahead with the sale. If something comes up, you may be able to use this to negotiate a reduction in the purchase price. 
  
 There are several different types of survey available, and the one that’s most suitable will depend on the property you’re buying and how thoroughly you want everything checked. 
- 
-## Looking for a hassle-free mortgage experience? 
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
- 
- 
+
