@@ -41,4 +41,4 @@ We sent Ant his mortgage recommendation after a quick call to confirm his situat
 
 Ant’s application was submitted within 24 hours of first completing his Trussle profile, and his new lender approved the application within 10 days.
 
-Many customers of Trussle have left their own reviews. [Read them here.](https://www.trustpilot.com/review/trussle.com)
+
