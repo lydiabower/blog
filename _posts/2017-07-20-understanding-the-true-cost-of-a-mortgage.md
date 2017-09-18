@@ -48,10 +48,3 @@ The easiest way to work out the true cost of a mortgage is to use a mortgage bro
 
 You might see lower interest rates offered elsewhere when you receive your recommendation from your broker. However, your recommendation will be based on the overall cost of the mortgage during the initial term, which includes fees that could offset the saving of a lower interest rate. 
  
-
-**Looking for a hassle-free mortgage experience?**
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta "Get started").
-
-
-
-
