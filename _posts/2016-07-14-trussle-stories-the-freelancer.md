@@ -46,4 +46,3 @@ After a busy day at work he uploaded his documents at around midnight. We were a
 
 > “I couldn’t believe how straightforward the whole process was. I assumed that my circumstances would make it difficult, but Trussle made it super easy. I’m actually kind of looking forward to remortgaging with them again!”
 
-Many customers of Trussle have left their own reviews. [Read them here](https://uk.trustpilot.com/review/trussle.com).
