@@ -78,6 +78,3 @@ With a fixed offset rate mortgage you can put in up to 100% of the mortgage bala
  
 ### Standard Variable Rate (SVR) mortgages
 If you’re on your lender’s [SVR](https://trussle.com/blog/what-is-a-standard-variable-rate), you can usually overpay as much as you like without a charge - one of an SVR’s few benefits. However, as we highlighted in our [Mortgage Saver Review](https://trussle.com/blog/mortgage-saver-review-may-2017) report, paying your lender’s SVR is often unnecessarily costly, and as a result, over 3 million UK homeowners are paying much more than they could if they switched to a more competitive deal. Before you decide to stay on the SVR, work out whether you’ll save more by staying and overpaying, or remortgaging to save money on a lower rate. 
- 
-**Looking for a hassle-free mortgage experience?**  
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
