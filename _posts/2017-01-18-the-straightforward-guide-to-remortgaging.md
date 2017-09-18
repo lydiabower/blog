@@ -70,5 +70,4 @@ Alternatively you could use an online broker like [Trussle](https://trussle.com/
 
 **For more details, read [Where To Remortgage (Saving Time And Money)](https://trussle.com/blog/where-to-remortgage-saving-time-money).**
 
-### Find out if you could save in 60 seconds
-See how hassle-free remortgaging can be with Trussle. Use our [remortgage calculator](https://apply.trussle.com/remortgage-quick-check?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503) to see if you could save.
+
