@@ -54,5 +54,3 @@ However, if there’s a significant amount of time between receiving your Decisi
 ## Does Trussle run a credit check?
 We don’t run a credit check ourselves, but once we’ve submitted your application to the lender, they’ll run their own hard credit check before deciding whether to lend to you. 
 
-**Looking for a hassle-free mortgage experience?** Get a quick, honest, and fee-free service from Trussle. [Get started here.](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503 "Trussle") 
-
