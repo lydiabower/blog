@@ -74,5 +74,3 @@ explains how suitability works.
 
 Using a mortgage broker will ensure you find a mortgage you’re both eligible for and that suits your unique circumstances. 
 
-**Looking for a hassle-free mortgage experience?**  
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here.](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503 "Get started with Trussle")
