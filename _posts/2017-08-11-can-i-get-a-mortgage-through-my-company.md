@@ -55,5 +55,3 @@ Rates for buy-to-let mortgages through a limited company tend to be higher than 
 ## Will all lenders accept my mortgage application through my company? 
 Not all lenders allow you to apply for a mortgage through your limited company. There are currently around a third of lenders willing to lend for mortgages through limited companies, although this number is growing. It’s a good idea to use a mortgage broker to find your mortgage through your company, who will recommend the most suitable deal for your circumstances.
 
-**Looking for a hassle-free mortgage experience?**
-Get a quick, honest, and fee-free service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503 "Get started with Trussle").
