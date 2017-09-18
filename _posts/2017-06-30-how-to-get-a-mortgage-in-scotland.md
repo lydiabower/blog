@@ -73,4 +73,3 @@ The settlement date will have been agreed as part of the missives negotiation. O
 ## Using Trussle to get a mortgage in Scotland
 If you’re buying a home in Scotland, Trussle can help. We’ll provide you with a downloadable Mortgage in Principle, search through thousands of mortgage products to find one that suits you, and manage your mortgage application to settlement. We’ll even continue to monitor your mortgage, alerting you when it’s time to switch to a more suitable deal later on.
  
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://apply.trussle.com/affordability-calculator?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
