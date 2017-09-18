@@ -56,5 +56,4 @@ Ella also couldn’t get over how quick and simple using Trussle was, especially
 
 We love hearing about how we’ve helped our customers find a mortgage that’s right for them. You can read more about our customers’ experiences on [Trustpilot](https://www.trustpilot.com/review/trussle.com).
 
-### Find out if you could save in 60 seconds
-See how hassle-free remortgaging can be with Trussle. Use our [remortgage calculator](https://apply.trussle.com/remortgage-quick-check?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503) to see if you could save.
+
