@@ -68,5 +68,3 @@ A lot of time can be saved at viewings by asking the right questions. You’ll a
 
 {% include image/left.html filename="mortgage_steps.png" %}
 
-### Find out how much you could afford in 60 seconds
-See how much you could afford to spend on a home with our clear and simple [affordability calculator](https://apply.trussle.com/affordability-calculator?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
