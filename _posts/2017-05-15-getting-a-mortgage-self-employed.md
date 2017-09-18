@@ -50,4 +50,3 @@ It can be a bit trickier to get a mortgage when you’re self-employed, so using
 
 As long as you have at least one year of self-employed accounts, we can look for a mortgage for you. When you apply, enter your pre-tax income as it’s shown on your tax return. This can be a combination of your dividends and salary if you run a limited company, and your profits if you’re a sole trader. 
 
-[Start your mortgage application](https://trussle.com/) at trussle.com.
