@@ -65,6 +65,3 @@ If you’re happy to go ahead, we’ll manage the application process, keeping y
 
 By taking some of the best bits of a traditional broker service, and using technology to make everything faster, more convenient, and more flexible, we’ve created a mortgage broker that works for you.
 
-### Looking for a hassle-free mortgage experience?
-
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
