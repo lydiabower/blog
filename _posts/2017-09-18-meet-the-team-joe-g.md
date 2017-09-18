@@ -3,9 +3,8 @@ published: false
 layout: post
 title: 'Meet The Team: Joe G'
 excerpt: >-
-  Faris joins Trussle as a Product Manager, working with our developers and the
-  wider business to grow the number of people we can help find a
-  mortgage.       
+  Joe joins Trussle as a mortgage adviser, making the move from estate agency
+  based advising so he could become part of the Trussle revolution.      
 thumbnail_filename: JoeGSquare.jpg
 author: Lydia Bower
 date: '2017-09-18 T00:00:00.000Z'
@@ -41,4 +40,3 @@ I love being in a position to help more people. At Trussle, I can completely foc
 Foals. Although recently I saw the DMAs, an Aussie band who I reckon are ones to watch.
 
 _**Inspired by Joe’s story? We’re hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you._
-
