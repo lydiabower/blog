@@ -66,6 +66,3 @@ As well as considering the monthly repayment amounts and the overall cost of you
 
 *_Note: This is a simplified example, assuming an interest rate of 3% over the course of the loan. In reality, mortgage rates will fluctuate during the lifetime of your loan._  
 
-**Looking for a hassle-free mortgage experience?**  
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/).
-
