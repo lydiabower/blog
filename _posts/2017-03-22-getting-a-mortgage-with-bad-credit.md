@@ -5,7 +5,7 @@ title: Getting A Mortgage With Bad Credit
 excerpt: >-
   Although having ‘bad credit’ usually means having a poor credit score, we can
   often find mortgages for those who’ve been rejected for a mortgage previously.
-thumbnail_filename: Mortgage%20with%20bad%20credit%20square.jpeg
+thumbnail_filename: Mortgage%20with%20bad%20credit%20square.jpg
 author: Oli West
 date: '2017-03-22 T00:00:00.000Z'
 ---

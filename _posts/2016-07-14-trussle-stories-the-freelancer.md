@@ -6,10 +6,10 @@ excerpt: >-
   In this story, we hear from James, a freelance designer who almost didn’t use
   our service at all…
 author_twitter: oliwesbiz
-thumbnail_filename: James_square.jpeg
+thumbnail_filename: James_square.jpg
 author: Oli West
 ---
-{% include image/left.html filename="James.jpeg" caption="The Freelancer" %}
+{% include image/left.html filename="James.jpg" caption="The Freelancer" %}
 
 At Trussle we put our customers first. We speak with them regularly to find out why they choose our online service to get a mortgage instead of their bank or a traditional high-street adviser.
 It’s clear from speaking to our customers how unique they all are; from teachers, nurses, and church reverends, to store managers, company directors, and startup founders — we’ve spoken to them all!
