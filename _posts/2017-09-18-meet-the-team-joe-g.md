@@ -1,7 +1,18 @@
 ---
 published: false
+layout: post
+title: 'Meet The Team: Joe G'
+excerpt: >-
+  Faris joins Trussle as a Product Manager, working with our developers and the
+  wider business to grow the number of people we can help find a
+  mortgage.       
+thumbnail_filename: JoeGSquare.jpg
+author: Lydia Bower
+date: '2017-09-18 T00:00:00.000Z'
 ---
 Mortgage adviser Joe is giving [Pete](https://trussle.com/blog/meet-the-team-pete "Meet Pete") a run for his money as the most fitness-conscious member of the Trussle team. After a short-lived stint working in the pinboard business, Joe became a mortgage adviser and joined Trussle so he could put his customers first. 
+
+![Meet Joe]({{site.baseurl}}/images/post_images/JoeG.jpg)
 
 ## What attracted you to join Trussle?
 I was interested in the new way of working at Trussle. I was working at an estate agent broker before and it was such an old fashioned way of thinking and working. The way we did things didn’t necessarily put the customer first; it was more to do with supplementing the sale. We were encouraged to do the job as quickly as possible so the estate agent could get their sale through. It’s so good to work somewhere that puts the customer first and where we’re not pushed towards buyers with bigger mortgages.
