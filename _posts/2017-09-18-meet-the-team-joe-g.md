@@ -28,7 +28,7 @@ I’m into fitness and anything active, even if it’s just running around and b
 I’d love to be a scuba diver instructor. You just need the money behind you to do it! 
 
 ## How did you get into mortgage advising?
-The same old story - I fell into it. I was away for about 26 months, travelling in the US, then living in Australia right by Bondi beach for two years before backpacking around south east Asia. I arrived back in London with £40 to my name which, living in London, went in about two seconds, so I needed to find a job. I had a friend at Lloyds Bank who landed me an interview to be a mortgage adviser, I got the job and didn’t look back!
+The same old story - I fell into it. I was away for about 26 months, travelling in the US, then living in Australia right by Bondi beach for two years before backpacking around south east Asia. I arrived back in London with £40 to my name which went in about two seconds, so I needed to find a job. I had a friend at Lloyds Bank who landed me an interview to be a mortgage adviser, I got the job and didn’t look back!
 
 ## What was your first job out of uni?
 I finished uni in 2008 and graduated straight into the recession. There were no jobs so I ended up working in a pinboard factory - not the world’s most exciting job, and I was doing the finishing. Then I was a fitness instructor in the evenings… It was manic! I knew I wanted to go away so I was focused on working as much as I could to get away sooner.
