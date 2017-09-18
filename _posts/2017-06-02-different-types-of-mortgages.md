@@ -99,6 +99,3 @@ We don’t help with commercial mortgages directly, but you can still apply for 
 **Remortgaging**  
 We can tell you if you’re eligible to switch to a more suitable deal, and if you are, we’ll find you the most competitive deal. If not, we’ll keep an eye on your mortgage with our [mortgage monitor](https://apply.trussle.com/remortgage-quick-check) and let you know when it’s time to switch. 
 
-
-**Looking for a hassle-free mortgage experience?**  
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
