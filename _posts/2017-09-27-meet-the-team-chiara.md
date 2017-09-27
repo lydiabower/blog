@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Meet The Team: Chiara'
 excerpt: >-
@@ -9,7 +9,7 @@ thumbnail_filename: ChiaraSquare.jpg
 author: Lydia Bower
 date: '2017-09-27 T00:00:00.000Z'
 ---
-Chiara joins Trussle as a software engineer after swapping the blue waters of Sardinia for the damp drizzle of London. 
+Chiara entered the startup world once she'd completed a degree in engineering at university in Pisa. Chiara joins Trussle as a software engineer after swapping the blue waters of Sardinia for the damp drizzle of London.
 
 ![Chiara]({{site.baseurl}}/images/post_images/Chiara.jpg)
 
