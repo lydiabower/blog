@@ -3,13 +3,15 @@ published: false
 layout: post
 title: 'Meet The Team: Chiara'
 excerpt: >-
-  Joe joins Trussle as a mortgage adviser, making the move from estate agency
-  based advising to become part of the Trussle revolution.      
-thumbnail_filename: JoeGSquare.jpg
+  Chiara joins Trussle as a Software Engineer after swapping the blue waters of
+  Sardinia for the damp drizzle of London.     
+thumbnail_filename: ChiaraSquare.jpg
 author: Lydia Bower
 date: '2017-09-27 T00:00:00.000Z'
 ---
 Chiara joins Trussle as a software engineer after swapping the blue waters of Sardinia for the damp drizzle of London. 
+
+![Chiara]({{site.baseurl}}/images/post_images/Chiara.jpg)
 
 ## What made you want to join Trussle?
 I wanted to be part of a good team - being part of a team is like being part of an engine where all the parts work together, and that’s what I liked about Trussle. There’s a lot of collaboration and everyone tries to help each other rather than working alone. I was working at a fintech startup previously and wanted to work somewhere similar. It’s an exciting environment at Trussle and there’s a lot of opportunity to make a difference.  
