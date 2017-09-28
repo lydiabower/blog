@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: What Is APRC And What Does It Mean For Your Mortgage?
 excerpt: >-
