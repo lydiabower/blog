@@ -5,7 +5,7 @@ title: 'Trussle Stories: The Hairdresser'
 excerpt: >-
   In this story, we hear from Lauren, a young mum working part-time as a
   hairdresser who was looking for a mortgage to secure her first home.      
-thumbnail_filename: APRC.jpg
+thumbnail_filename: LaurensTrussleStorySquare.jpg
 author: Lydia Bower
 date: '2017-10-03 T00:00:00.000Z'
 ---
