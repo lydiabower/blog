@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Meet The Team: Roberta'
 excerpt: >-
@@ -15,7 +15,7 @@ Roberta joins Trussle as a member of our Customer Success team after stepping fo
 ![Roberta]({{site.baseurl}}/images/post_images/Roberta.jpg)
 
 ## What attracted you to join Trussle?
-I liked the idea of working with technology and was fascinated by how it all works! Before joining Trussle I read a lot of customer reviews and they all said how great the service is, and as that’s my field, I wanted to get involved. 
+I liked the idea of working with technology and was fascinated by how everything at Trussle works. Before joining Trussle I read a lot of customer reviews and they all said how great the service is, and as that’s my field, I wanted to get involved. 
 
 When I came in for my interview, I knew I really wanted to work here. The office had such a great vibe - there were people sitting working on sofas and it seemed relaxed and friendly. I’ve always had to be suited and booted for work so it’s a treat to be able to wear what I like!
 
@@ -44,4 +44,4 @@ Coco Chanel.
 I love going to the Amalfi coast in Italy. It’s like my holy place! I’ve got some family there and I try to go every year. I’m 21 soon and I’m desperate to go to Thailand so I’m thinking I’ll get it booked on my birthday and have it to look forward to. 
 
 ## Favourite book or film?
-Titanic. 
+Titanic.
