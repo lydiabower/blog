@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: 'Meet The Team: Panitsa'
 excerpt: >-
