@@ -5,7 +5,7 @@ title: 'Explained: How An Interest Rate Rise Would Affect Your Mortgage Payments
 excerpt: >-
   The Bank of England has strongly hinted an interest rate rise could be
   imminent. But what would this mean for your mortgage payments?    
-thumbnail_filename: BoEBR.jpg
+thumbnail_filename: BoEBRSquare.jpg
 author: Lydia Bower
 date: '2017-10-10 T00:00:00.000Z'
 ---
@@ -26,7 +26,7 @@ The Bank of England last raised the interest rate in 2007 just before the financ
 
 We haven’t seen a rate change since August 2016, when the base rate was cut from 0.5% to 0.25% in the wake of the Brexit vote.
 
-![Base Rate]({{site.baseurl}}/images/post_images/BoEBR.jpg)
+![Base rate]({{site.baseurl}}/images/post_images/BoEBR.jpg)
 
 Bank of England Governor Mark Carney has said that a rate change should be expected in the near future “...if the economy continues on the track it’s on.”.
 
