@@ -14,7 +14,7 @@ The Bank of England has strongly hinted an [interest rate rise could be imminent
 [Why might interest rates rise?](#why-might-interest-rates-rise)  
 [Will a rate rise affect my fixed rate mortgage?](#im-on-a-fixed-rate-mortgage-deal)   
 [Will a rate rise affect my tracker mortgage?](#im-on-a-tracker-mortgage)  
-[Will a rate rise affect my SVR mortgage?](#im-paying-the-svr-or-discounted-variable-rate)  
+[Will a rate rise affect my SVR mortgage?](#im-paying-the-standard-varibale-rate-svr-or-discounted-variable-rate)  
 [I’m about to buy a home - how will I be affected?](#im-about-to-buy-a-home)  
 
 ## Why might interest rates rise?
