@@ -9,13 +9,13 @@ thumbnail_filename: BoEBRSquare.jpg
 author: Lydia Bower
 date: '2017-10-10 T00:00:00.000Z'
 ---
+The Bank of England has strongly hinted an [interest rate rise could be imminent](http://www.bbc.co.uk/news/business-41439349). But what would this mean for your mortgage payments?  
+
 [Why might interest rates rise?](#why-might-interest-rates-rise)  
 [Will a rate rise affect my fixed rate mortgage?](#im-on-a-fixed-rate-mortgage-deal)   
 [Will a rate rise affect my tracker mortgage?](#im-on-a-tracker-mortgage)  
 [Will a rate rise affect my SVR mortgage?](#im-paying-the-svr-or-discounted-variable-rate)  
 [I’m about to buy a home - how will I be affected?](#im-about-to-buy-a-home)  
-
-The Bank of England has strongly hinted an [interest rate rise could be imminent](http://www.bbc.co.uk/news/business-41439349). But what would this mean for your mortgage payments?
 
 ## Why might interest rates rise?
 The base rate (or interest rate) is set by the Bank of England and used as the benchmark for interest rates more generally.
