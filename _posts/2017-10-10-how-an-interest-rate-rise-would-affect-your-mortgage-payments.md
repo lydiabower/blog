@@ -81,8 +81,8 @@ So if the rate went up by 0.25% you’d be looking to pay ~£240 more over 1 yea
 
 [Two million homeowners on the SVR](http://www.cityam.com/265859/you-one-millions-brits-paying-banks-98bn-needless-mortgage) are overpaying for their mortgage unnecessarily, so it’s a good idea to remortgage to a more suitable deal.
 
-### Are you ready to switch your mortgage?
-[I want to switch](https://apply.trussle.com/remortgage-quick-check "Are you ready to switch?")
+### [Are you ready to switch your mortgage?](https://apply.trussle.com/remortgage-quick-check)
+
 
 ## I’m about to buy a home
 If you’re close to buying a new home, don’t be disheartened by a rate rise! A base rate of 0.5% is still incredibly low by historical comparison.
