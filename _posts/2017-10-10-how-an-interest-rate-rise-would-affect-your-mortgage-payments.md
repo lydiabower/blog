@@ -3,10 +3,9 @@ published: false
 layout: post
 title: 'Explained: How An Interest Rate Rise Would Affect Your Mortgage Payments'
 excerpt: >-
-  Sam joins Trussle as part of our Customer Success team after a few years
-  working in the traditional mortgage market. Fed up of the endless paperwork
-  and lack of flexibility, Sam decided she wanted a change.    
-thumbnail_filename: SamSquare.jpg
+  The Bank of England has strongly hinted an interest rate rise could be
+  imminent. But what would this mean for your mortgage payments?    
+thumbnail_filename: BoEBR.jpg
 author: Lydia Bower
 date: '2017-10-10 T00:00:00.000Z'
 ---
@@ -27,7 +26,7 @@ The Bank of England last raised the interest rate in 2007 just before the financ
 
 We haven’t seen a rate change since August 2016, when the base rate was cut from 0.5% to 0.25% in the wake of the Brexit vote.
 
->>Graph of BoE base rate over time<<
+![Base Rate]({{site.baseurl}}/images/post_images/BoEBR.jpg)
 
 Bank of England Governor Mark Carney has said that a rate change should be expected in the near future “...if the economy continues on the track it’s on.”.
 
@@ -49,7 +48,7 @@ Remember: If you don’t remortgage by the time your initial term ends, you’ll
 
 Homeowners with an SVR are [overpaying an average of £4,900 a year](http://www.dailymail.co.uk/money/mortgageshome/article-4569160/You-paying-5k-year-mortgage.html) in interest alone for their mortgage. 
 
-Any rate rise will make the SVR even more expensive, so as always it’s a good idea to remortgage to a more suitable deal before this point..
+Any rate rise will make the SVR even more expensive, so as always it’s a good idea to remortgage to a more suitable deal before this point.
 
 ### I’m on a tracker mortgage
 _Immediate change_
@@ -61,15 +60,12 @@ If you’ve recently secured a tracker mortgage, there’s no reason to feel lik
 Your mortgage payments will increase immediately after a rate rise if you’re on a tracker mortgage, regardless of which lender you’re with. 
 
 Here’s an example of how a tracker mortgage would change with the likely upcoming rate increase: 
-Based on: £150k loan, 20 year term, tracker rate currently at 0.25%
 
-Current interest rate: 0.25% = £641/mo (£7,692 over 1 year)
-Increase of 0.25%: 0.5% = £657/mo (£7,884 over 1 year)
-Increase of 0.5%: 0.75% = £673/mo (£8,076 over 1 year)
+![Tracker mortgage]({{site.baseurl}}/images/post_images/RateIncreaseTrackerMortgage.jpg)
 
 So if the rate went up by 0.25% you’d be looking to pay ~£190 more over 1 year, and if it went up by 0.5% you’d be looking to pay ~£380 more over 1 year.
 
-### I’m paying the SVR or discounted variable rate
+### I’m paying the Standard Varibale Rate (SVR) or discounted variable rate
 _Not immediate, but imminent change_
 
 It won’t be immediate, but your mortgage rate could go up within days.
@@ -79,11 +75,7 @@ Be prepared to see your payments increase regardless of your lender, however bea
 For example, after last year’s base rate change Nationwide reduced their SVR by the same 0.25%, Tesco Bank by 0.35%, and Kent Reliance by 0.21% - all on different days. Find more details on page 12 of our [Mortgage Saver Review](https://trussle.com/blog/mortgage-saver-review-may-2017). 
 
 Here’s an example of how a SVR would change with the likely upcoming rate increase:
-Based on: £150k loan, 20 year term, SVR currently at 3.75%
-
-Current interest rate: 3.75% = £889/mo (£10,668 over 1 year)
-Increase of 0.25%: 4% = £909/mo (£10,908 over 1 year)
-Increase of 0.5%: 4.25% = £929/mo (£11,148 over 1 year)
+![SVR rate increase]({{site.baseurl}}/images/post_images/SVRrateIncrease.jpg)
 
 So if the rate went up by 0.25% you’d be looking to pay ~£240 more over 1 year, and if it went up by 0.5% you’d be looking to pay ~£480 more over 1 year.
 
@@ -100,7 +92,7 @@ Before you automatically discredit the idea because of the likely rate change an
 
 Speaking to an adviser will help you find a mortgage deal that suits your unique circumstances. 
 
-### Is it worth getting a fixed rate mortgage?
+### Is it worth getting a fixed rate mortgage?
 Fixed rate mortgages are also at some of the lowest rates they’ve ever been, plus they offer financial security.
 
 If you’re looking to buy, now’s a good time to lock in a low rate before interest rates go up, especially given that they may rise again gradually over the next few years. 
@@ -123,5 +115,4 @@ A higher base rate means your savings will grow more quickly with a rate rise, a
 ## Check your options with Trussle
 If you’re not comfortable with your current mortgage deal or are worried about how your payments may change with an interest rate rise, get in touch. We’ll let you know if you could switch to a more suitable deal and prevent your payments from rising. 
 
-Your Trussle adviser will take into account the likely upcoming rate rise as well as your unique circumstances before recommending a deal. 
-
+Your Trussle adviser will take into account the likely upcoming rate rise as well as your unique circumstances before recommending a deal.
