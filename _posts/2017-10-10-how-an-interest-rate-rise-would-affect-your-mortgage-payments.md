@@ -103,7 +103,7 @@ It’s not all bad news if you’re saving for a deposit and hoping to lock in a
 A higher base rate means your savings will grow more quickly with a rate rise, and a 0.5% base rate still leaves plenty of opportunity for low rate deals. 
 
 ## Advice from the expert
-{% include image/left.html filename="ryan3.png" alt="Image of Ryan Tuff" %}
+{% include image/left.html filename="ryan3.png" alt="Image of Ryan Tuff" %} Trussle mortgage adviser Ryan explains why now is the ideal time to check if you could be on a more suitable deal.
 > With a potential rate rise on the horizon, there’s never been a better time to review your mortgage. Put simply, a rate rise will mean an increase in monthly payments for millions of homeowners on variable or tracker deals. As mortgage experts, this is something that Trussle can help to minimise.
 
 > I’m optimistic lenders will try to remain competitive, but inevitably a rate increase will mean they’ll have to make their deals more expensive. Rates remain historically low with some unprecedented long term deals, which we can take as a sign of the level of confidence lenders have in the market. Current ten year fixed deals at low rates suggest lenders don’t believe rates will rise drastically in the near future, which should give borrowers confidence.
