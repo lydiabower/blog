@@ -52,4 +52,4 @@ However, if there’s a significant amount of time between receiving your Decisi
 
 
 ## Does Trussle run a credit check?
-To better understand deals you may be eligible for, we’ll run a soft credit check before we show you personalised examples of mortgage deals and before we provide you with a formal recommendation. This won’t impact your credit rating, and we’ll ask your permission before we run the soft credit check. 
+To better understand deals you may be eligible for, we’ll run a soft credit check before we provide you with a formal recommendation. This won’t leave a footprint on your credit file and won’t impact your credit score in any way.
