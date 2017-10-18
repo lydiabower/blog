@@ -52,9 +52,6 @@ Waiting to hear whether your application has been approved can take between one 
 
 ## Things to know about remortgaging with Trussle 
 
-### We don’t run a credit check  
-We don’t run a credit check before submitting your application, however your lender will want to see your credit history at this point. When your application is submitted, the lender will run a credit check - if you have any questions about this, we’ll be happy to help. 
-
 ### You can talk to us over the phone
 Cutting out time-consuming and unnecessary face-to-face appointments helps keep your remortgaging experience quick and as simple as possible. Many traditional mortgage brokers insist that customers meet an adviser for a certain period of time (usually a couple of hours), when in reality, there’s no need for you to be there in person. 
 
@@ -84,4 +81,3 @@ We know life doesn’t only happen between nine and five. If you wake up in the 
 We understand how important it is to know that your personal information is in safe hands. Your personal information will be treated as confidential by us and held in accordance with the Data Protection Act 1998.
 
 In addition, we’re approved by the Financial Conduct Authority who are the UK’s independent financial regulatory body. They exist to make sure you’re protected and treated fairly.
-
