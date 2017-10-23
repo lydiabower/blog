@@ -9,7 +9,7 @@ thumbnail_filename: BoEBRSquare.jpg
 author: Lydia Bower
 date: '2017-10-23 T00:00:00.000Z'
 ---
-Stefan joins Trussle as a full-stack engineer, working on delivering new tools for our customers to help make the process of getting a mortgage through Trussle even more simple. 
+_Stefan joins Trussle as a full-stack engineer, working on delivering new tools for our customers to help make the process of getting a mortgage through Trussle even more simple._ 
 
 ## What made you want to join Trussle?
 I liked the idea of working for a startup but I also liked the business idea behind Trussle. As someone who doesn’t like to deal with paperwork and take time out to make trips to banks or offices, I saw the value in Trussle. Trussle makes the process of getting a mortgage as smooth and frictionless as possible, which is something I’d opt for. 
