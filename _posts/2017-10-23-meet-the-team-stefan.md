@@ -1,5 +1,13 @@
 ---
 published: false
+layout: post
+title: 'Meet The Team: Stefan'
+excerpt: >-
+  The Bank of England has strongly hinted an interest rate rise could be
+  imminent. But what would this mean for your mortgage payments?    
+thumbnail_filename: BoEBRSquare.jpg
+author: Lydia Bower
+date: '2017-10-23 T00:00:00.000Z'
 ---
 Stefan joins Trussle as a full-stack engineer, working on delivering new tools for our customers to help make the process of getting a mortgage through Trussle even more simple. 
 
