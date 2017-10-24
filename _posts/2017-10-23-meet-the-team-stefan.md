@@ -38,4 +38,4 @@ I’ve been here just over a year and so far I’m enjoying the buzz of the city
 Photography. It’s the most pleasant thing to do when I go out. London’s such a diverse city and it’s always full of so many surprises. It’s hard to go out and not see something that catches your eye.
 
 ## Favourite music?
-I used to DJ for alternative music events every now and then so my music taste in quite eclectic, from old school rock to electronic to industrial and extreme metal. It’s hard to choose a favourite band when you listen to so many different types of music.
+I used to DJ for alternative music events every now and then so my music taste is quite eclectic, from old school rock to electronic to industrial and extreme metal. It’s hard to choose a favourite band when you listen to so many different types of music.
