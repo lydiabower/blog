@@ -3,13 +3,15 @@ published: false
 layout: post
 title: 'Meet The Team: Stefan'
 excerpt: >-
-  The Bank of England has strongly hinted an interest rate rise could be
-  imminent. But what would this mean for your mortgage payments?    
-thumbnail_filename: BoEBRSquare.jpg
+  Stefan joins Trussle as a full-stack engineer, working on delivering new tools
+  for our website to make the experience of using Trussle the best it can be.   
+thumbnail_filename: StefanSquare.jpg
 author: Lydia Bower
-date: '2017-10-23 T00:00:00.000Z'
+date: '2017-10-24 T00:00:00.000Z'
 ---
-_Stefan joins Trussle as a full-stack engineer, working on delivering new tools for our customers to help make the process of getting a mortgage through Trussle even more simple._ 
+_Stefan joins Trussle as a full-stack engineer, working on delivering new tools for our website to make the experience of using Trussle the best it can be._ 
+
+![Stefan]({{site.baseurl}}/images/post_images/Stefan.jpg)
 
 ## What made you want to join Trussle?
 I liked the idea of working for a startup but I also liked the business idea behind Trussle. As someone who doesn’t like to deal with paperwork and take time out to make trips to banks or offices, I saw the value in Trussle. Trussle makes the process of getting a mortgage as smooth and frictionless as possible, which is something I’d opt for. 
@@ -37,4 +39,3 @@ Photography. It’s the most pleasant thing to do when I go out. London’s such
 
 ## Favourite music?
 I used to DJ for alternative music events every now and then so my music taste in quite eclectic, from old school rock to electronic to industrial and extreme metal. It’s hard to choose a favourite band when you listen to so many different types of music.
-
