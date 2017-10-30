@@ -3,9 +3,10 @@ published: false
 layout: post
 title: How Much Can I Borrow For My Mortgage?
 excerpt: >-
-  Stefan joins Trussle as a full-stack engineer, working on delivering new tools
-  for our website to make the experience of using Trussle the best it can be.   
-thumbnail_filename: StefanSquare.jpg
+  Despite the myths, there’s no set rule for the amount you can borrow for your
+  mortgage - it depends on a number of factors, just one of which is your
+  salary.   
+thumbnail_filename: HowMuchCanIBorrow.jpg
 author: Lydia Bower
 date: '2017-10-30 T00:00:00.000Z'
 ---
