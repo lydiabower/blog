@@ -26,7 +26,7 @@ Although there’s no guarantee that you can borrow five times your salary, many
 Lenders also take into account your credit history. They’ll want to see evidence that you’re trustworthy and have a history of repaying borrowed cash. Whatever your salary, having a good credit score will put you in a better position to borrow more for your mortgage. 
 
 ## Online mortgage calculator
-Online mortgage calculators can give you an estimate of the amount you’ll be able to borrow and are a helpful starting point. Because these calculators don’t take into account any of the affordability criteria you’ll be checked against, you shouldn’t take the amount you’re shown as a guarantee.
+Online mortgage calculators [like this one](https://apply.trussle.com/affordability-calculator) can give you an estimate of the amount you’ll be able to borrow and are a helpful starting point. Because these calculators don’t take into account any of the affordability criteria you’ll be checked against, you shouldn’t take the amount you’re shown as a guarantee.
 
 ## See what you could afford with a Mortgage in Principle
 It’s a good idea to get a Mortgage in Principle before you start your search for a new home so you know your budget. Find out [how to get a Mortgage in Principle with Trussle](https://trussle.com/blog/how-to-get-a-mortgage-in-principle-with-trussle). 
