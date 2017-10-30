@@ -6,13 +6,13 @@ excerpt: >-
   Despite the myths, there’s no set rule for the amount you can borrow for your
   mortgage - it depends on a number of factors, just one of which is your
   salary.   
-thumbnail_filename: HowMuchCanIBorrow.jpg
+thumbnail_filename: HowSalaryAffectsMortgageSquare.jpg
 author: Lydia Bower
 date: '2017-10-30 T00:00:00.000Z'
 ---
 Finding out how much you can borrow to buy a home is often the first question on many home buyers’ minds. Despite the myths, there’s no set rule for the amount you can borrow - it depends on a number of factors, just one of which is your salary. 
 
-That may come as good news for some, as a higher salary doesn’t automatically mean you can borrow more. What it does mean is that your overall financial profile will help lenders decide how much they’re willing to lend, and your salary will make up a part of that profile. 
+That may come as good news for some, as a higher salary doesn’t automatically mean you can borrow more. What it does mean is that your overall financial profile will help lenders decide how much they’re willing to lend, and your salary will make up a part of that profile.
 
 ## Don’t automatically assume you can borrow five times your salary 
 If you’re a first-time buyer, you may have heard people say that you can [borrow five times your salary](https://trussle.com/blog/how-salary-affects-mortgage). This isn’t automatically the case! While being able to borrow five times your earnings used to be the general rule of thumb, the regulatory rules around lending for mortgages [changed in 2014](https://www.uswitch.com/mortgages/guides/mortgage-market-review/) following the financial crisis. 
