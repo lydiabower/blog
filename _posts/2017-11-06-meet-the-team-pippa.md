@@ -2,12 +2,11 @@
 published: false
 layout: post
 excerpt: >-
-  Despite the myths, there’s no set rule for the amount you can borrow for your
-  mortgage - it depends on a number of factors, just one of which is your
-  salary.   
+  Pippa looks after the internal running of the business, and it’s a big role -
+  managing everything to do with finance, HR, legal, and compliance.   
 thumbnail_filename: HowSalaryAffectsMortgageSquare.jpg
 author: Lydia Bower
-date: '2017-11-06 T00:00:00.000Z'
+date: '2017-11-07 T00:00:00.000Z'
 title: 'Meet The Team: Pippa'
 ---
 ## Job Title: Head of Business Operations
