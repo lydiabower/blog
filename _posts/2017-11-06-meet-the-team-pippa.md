@@ -15,6 +15,7 @@ _Pippa looks after the internal running of the business, and it’s a big role -
 
 ![Pippa]({{site.baseurl}}/images/post_images/Pippa.png)
 
+
 ## What made you want to join Trussle?
 I had a terrible personal experience getting a mortgage myself and thought there must be a better way of doing this! Now I know there is, and I’m really excited to be part of it. 
 
