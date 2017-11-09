@@ -13,6 +13,8 @@ title: 'Meet The Team: Pippa'
 
 _Pippa looks after the internal running of the business, and it’s a big role - managing everything to do with finance, HR, legal, and compliance. Now that we’re a team of over 50, Pippa has her work cut out! But with a background in law, we know she’s up to the job._
 
+![Pippa]({{site.baseurl}}/images/post_images/Pippa.png)
+
 ## What made you want to join Trussle?
 I had a terrible personal experience getting a mortgage myself and thought there must be a better way of doing this! Now I know there is, and I’m really excited to be part of it. 
 
