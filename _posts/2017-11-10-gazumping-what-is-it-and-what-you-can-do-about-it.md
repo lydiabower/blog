@@ -14,6 +14,11 @@ Buying a home is an exciting and positive experience for many people, but there 
 
 ![Gazumping]({{site.baseurl}}/images/post_images/gazumping.jpg)
 
+[What is gazumping?](#what-is-gazumping)  
+[Is gazumping legal?](#is-gazumping-legal)  
+[Will gazumping law ever change?](#gazumping-and-the-law)  
+[How to avoid gazumping](#how-to-avoid-gazumping)  
+
 ## What is gazumping?
 Gazumping is when another buyer outbids you on the home you’re in the process of buying after your offer has been accepted, causing you to miss out on the purchase. 
 
