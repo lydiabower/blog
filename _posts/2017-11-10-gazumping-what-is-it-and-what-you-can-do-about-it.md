@@ -3,13 +3,16 @@ published: false
 layout: post
 title: 'Gazumping: What Is It And What Can You Do About It?'
 excerpt: >-
-  Pippa looks after the internal running of the business, and it’s a big role -
-  managing everything to do with finance, HR, legal, and compliance.   
-thumbnail_filename: PippaSqure.png
+  Buying a home is an exciting and positive experience for many people, but
+  there are a few things to watch out for. For some unlucky buyers, it’s made a
+  lot more difficult by one thing: gazumping.    
+thumbnail_filename: gazumpingSquare.jpg
 author: Lydia Bower
 date: '2017-11-10 T00:00:00.000Z'
 ---
 Buying a home is an exciting and positive experience for many people, but there are a few things to watch out for. For some unlucky buyers, it’s made a lot more difficult by one thing: gazumping. 
+
+![Gazumping]({{site.baseurl}}/images/post_images/gazumping.jpg)
 
 ## What is gazumping?
 Gazumping is when another buyer outbids you on the home you’re in the process of buying after your offer has been accepted, causing you to miss out on the purchase. 
