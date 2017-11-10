@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Gazumping: What Is It And What Can You Do About It?'
 excerpt: >-
