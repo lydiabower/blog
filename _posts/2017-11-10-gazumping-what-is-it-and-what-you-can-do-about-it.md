@@ -16,7 +16,7 @@ Buying a home is an exciting and positive experience for many people, but there 
 
 [What is gazumping?](#what-is-gazumping)  
 [Is gazumping legal?](#is-gazumping-legal)  
-[Will gazumping law ever change?](#gazumping-and-the-law)  
+[Will gazumping law ever change?](#will-gazumping-law-ever-change)  
 [How to avoid gazumping](#how-to-avoid-gazumping)  
 
 ## What is gazumping?
