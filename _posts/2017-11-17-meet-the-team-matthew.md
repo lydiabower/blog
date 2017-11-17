@@ -3,13 +3,16 @@ published: false
 layout: post
 title: 'Meet The Team: Matthew'
 excerpt: >-
-  Richard joined Trussle to make the most of the opportunities that come with a
-  small and fast-growing company.     
-thumbnail_filename: RichardSquare.jpg
+  Meet Matt: our first Vice President of Engineering, joining the team to propel
+  us towards our goal of providing instant mortgage approvals and lifetime
+  mortgage monitoring.     
+thumbnail_filename: MattSquare.jpg
 author: Lydia Bower
 date: '2017-11-17 T00:00:00.000Z'
 ---
 Matt recently became our first Vice President of Engineering, joining the team to propel us towards our goal of providing instant mortgage approvals and lifetime mortgage monitoring. 
+
+![Matt]({{site.baseurl}}/images/post_images/Matt.jpg)!
 
 ## Why did you decide to join Trussle?
 I’ve been through the process of getting a mortgage twice myself so I understand the pain - it’s clear the mortgage industry needs changing. 
