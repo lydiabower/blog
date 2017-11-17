@@ -12,7 +12,7 @@ date: '2017-11-17 T00:00:00.000Z'
 ---
 Matt recently became our first Vice President of Engineering, joining the team to propel us towards our goal of providing instant mortgage approvals and lifetime mortgage monitoring. 
 
-![Matt]({{site.baseurl}}/images/post_images/Matt.jpg)!
+![Matt]({{site.baseurl}}/images/post_images/Matt.jpg)
 
 ## Why did you decide to join Trussle?
 I’ve been through the process of getting a mortgage twice myself so I understand the pain - it’s clear the mortgage industry needs changing. 
