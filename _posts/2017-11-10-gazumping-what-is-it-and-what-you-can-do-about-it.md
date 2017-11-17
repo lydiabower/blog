@@ -42,18 +42,18 @@ Although there’s nothing set in stone at the moment, buyers can be hopeful tha
 
 ## How to avoid gazumping
 
-**- Get a Mortgage in Principle**
+**Get a Mortgage in Principle**  
 Having a Mortgage in Principle once your offer has been accepted will help you move faster when it comes to completing the sale, keeping you ahead of the competition who may try to gazump you. 
 
 It’s a good idea to [get a Mortgage in Principle](https://apply.trussle.com/affordability-calculator?UTM_source=BL&UTM_medium=Blog&UTM_campaign=BL_101117) before you start your search for a new home so you know how much you’re likely to be able to borrow. Having one also shows the seller and the estate agent (who both want a quick and easy sale) that in principle, you can afford the property and should be able to get a mortgage, making you a more attractive buyer and one that’s less likely to get gazumped. 
 
-**- Move quickly**  
+**Move quickly**  
 Sellers want a quick sale, so having a buyer who is pushing the process along is a positive sign. Keep up the pressure on your solicitor and make sure you [use a mortgage broker](https://trussle.com/?UTM_source=BL&UTM_medium=Blog&UTM_campaign=BL_101117) that keeps you in the picture. 
 
-**- Ask the seller to take the property off the market**  
+**Ask the seller to take the property off the market**  
 Not all sellers will be prepared to do this, but if you’re concerned about being gazumped, it’s worth asking to take the property off the market. The seller may have had a sale fall through before and could be as keen to seal the deal as you. If you position yourself as a serious buyer and move quickly by organising a survey and starting your mortgage application, the seller will be more likely to accept your proposal. 
 
-**- Get gazumping insurance**  
+**Get gazumping insurance**  
 Known as ‘homebuyers insurance’, this protection has the potential to save you thousands. Many buyers without insurance not only lose out on their purchase, but also lose out financially, having paid for solicitors, surveys, and valuation fees. If you’ve started to arrange your mortgage before being gazumped, you could also lose out on any mortgages fees paid to the lender.
 
 Be aware of paying broker fees. If you do end up being gazumped, it’s more money to lose. 
