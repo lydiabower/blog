@@ -27,7 +27,7 @@ Homeownership is such a personal and significant event in life, so if we can pro
 I’ll be working closely with the engineering team, continuing to build great product. My vision is to have a business-focused product engineering team - that’s the only kind of team that will allow us to deliver Trussle’s vision. I love building teams and finding the right people to solve problems - that’s what’s always driven me as a manager. A lot of my role will centre around building the engineering culture to be in step with Trussle culture, as I’ve seen in some larger companies the two can become quite separate. 
 
 ## What were you doing before?
-I was managing engineering teams at Funding Circle, responsible for building out their future core exchange platform.Funding Circle’s aim was similar to Trussle’s - they want to make getting approved for small business loans an instant process. 
+I was managing engineering teams at Funding Circle, responsible for building out their future core exchange platform. Funding Circle’s aim was similar to Trussle’s - they want to make getting approved for small business loans an instant process. 
 
 ## What do you think will be the hardest part of your job?
 The technical challenge - building algorithms and working towards automation - is achievable. The harder part will be around ensuring people are comfortable with the advice they receive. We want people to understand that the advice we give is personal to them and matches their needs and circumstances.
@@ -51,4 +51,4 @@ My favourite nerdy series is Battlestar Galactica (the reboot) and serious serie
 ## If you founded your own company, what would it be doing?
 Before I joined Funding Circle I considered starting my own company in the mortgage space. It’s always been an area I’ve had an interest in so when I saw the opportunity to join Trussle, it was too good an opportunity to turn down.
 
-**_Inspired by Matt’s story? We’re hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we’d love to hear from you._
+**_Inspired by Matt’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we’d love to hear from you._**
