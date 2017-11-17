@@ -51,3 +51,4 @@ My favourite nerdy series is Battlestar Galactica (the reboot) and serious serie
 ## If you founded your own company, what would it be doing?
 Before I joined Funding Circle I considered starting my own company in the mortgage space. It’s always been an area I’ve had an interest in so when I saw the opportunity to join Trussle, it was too good an opportunity to turn down.
 
+**_Inspired by Alice’s story? We’re hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we’d love to hear from you._
