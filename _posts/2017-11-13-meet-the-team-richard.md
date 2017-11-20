@@ -44,3 +44,5 @@ Shawshank Redemption is everyone’s go to favourite but it is a great film. I l
 
 ## Is there another company in the startup space you’re interested in?
 I’ve always admired the Google setup, and the new offices they’re building near Kings Cross look insane. I like a company Andy Rubin (one of the founders of Android) set up called [Essential](https://www.essential.com/ "Essential"), as they’re doing things people might not expect. Unfortunately, the phone they’ve made isn’t great, but I’m hoping the next model will be amazing.
+
+**_Inspired by Richard’s story? We’re hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we’d love to hear from you._
