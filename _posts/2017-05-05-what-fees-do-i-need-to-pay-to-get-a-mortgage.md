@@ -3,9 +3,9 @@ published: true
 layout: post
 title: What Fees Do I Need To Pay To Get A Mortgage?
 excerpt: >-
-  Trussle takes the hassle out of finding a mortgage - what used to be hard work
-  is now a straightforward process. It’s quick to get started, and we can make
-  sure you find a deal that’s right for you.
+  When you're getting a mortgage, you'll have to pay some fees, although these
+  will vary depending on the lender and the mortgage deal. We've rounded up some
+  of the fees you’re likely to come across.
 thumbnail_filename: woman-hand-smartphone-laptopsquare.jpg
 author: Lydia Bower
 date: '2017-05-05 T00:00:00.000Z'
