@@ -37,5 +37,6 @@ Everything is much more efficient here. The systems we use and the advisory proc
 I like running, and keeping fit generally. I’m pretty handy at DIY - I’ve saved myself thousands over the years doing odd jobs. 
 
 ## Favourite thing to do in London?
-Having dinner by the river on a summer’s evening. 
+Having dinner by the river on a summer’s evening.
 
+_**Inspired by Russell's story? We're hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we'd love to hear from you._
