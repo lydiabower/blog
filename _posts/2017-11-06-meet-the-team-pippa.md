@@ -41,5 +41,6 @@ Seeing my family and friends. I’m a country girl originally from Wiltshire so 
 There’s a micro distillery down towards Guildford called Silent Pool - it’s a beautiful setting. Add gin, tonic and scenery together - perfect.  
 
 ## Favourite film?
-Gladiator is up there. Plus the old school classic Disney films (Sleeping Beauty, Aladdin - any way to release my inner child). 
+Gladiator is up there. Plus the old school classic Disney films (Sleeping Beauty, Aladdin - any way to release my inner child).
 
+_**Inspired by Pippa's story? We're hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we'd love to hear from you._
