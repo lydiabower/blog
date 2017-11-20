@@ -37,4 +37,4 @@ In Italy we start learning English at school when we’re eight, but it was all 
 ## Favourite thing to do in London?
 I like the parks in London so whenever I can I like to go for long walks in the park. This summer I’ve spent a lot of time in the Olympic park.
 
-**_Inspired by Chiara's story? We're hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we'd love to hear from you._
+_**Inspired by Chiara's story? We're hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we'd love to hear from you._
