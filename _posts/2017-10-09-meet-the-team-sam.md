@@ -42,5 +42,6 @@ My childhood was filled with superheroes and comics, and I still read comics and
 Batman. He doesn’t have any superpowers - instead it’s all gadgets, his mind, and his training. He almost makes being a superhero achievable. You know you’re never going to be Superman but Batman makes it seem a little more in reach!
 
 ## Tell us something unexpected about yourself.
-I recently started adult swimming lessons as I forgot how to swim! The kids are having lessons and getting quite good so I thought it was about time I should take some lessons too. I did kickboxing until a few years ago and I’m going back next week. 
+I recently started adult swimming lessons as I forgot how to swim! The kids are having lessons and getting quite good so I thought it was about time I should take some lessons too. I did kickboxing until a few years ago and I’m going back next week.
 
+_**Inspired by Sam's story? We're hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we'd love to hear from you._
