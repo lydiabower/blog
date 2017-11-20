@@ -45,3 +45,5 @@ I love going to the Amalfi coast in Italy. It’s like my holy place! I’ve got
 
 ## Favourite book or film?
 Titanic.
+
+**_Inspired by Roberta's story? We're hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we'd love to hear from you._
