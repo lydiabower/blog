@@ -6,7 +6,7 @@ excerpt: >-
   When you're getting a mortgage, you'll have to pay some fees, although these
   will vary depending on the lender and the mortgage deal. We've rounded up some
   of the fees you’re likely to come across.
-thumbnail_filename: woman-hand-smartphone-laptopsquare.jpg
+thumbnail_filename: FeesSquare.jpg
 author: Lydia Bower
 date: '2017-05-05 T00:00:00.000Z'
 ---
