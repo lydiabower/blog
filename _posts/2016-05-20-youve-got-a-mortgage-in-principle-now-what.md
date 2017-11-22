@@ -11,16 +11,23 @@ thumbnail_filename: MiP_square.png
 ---
 {% include image/center.html filename="MiP.png" %}
 
+[What is a Mortgage in Principle?](#what-is-a-mortgage-in-principle)  
+[How to get a Mortgage in Principle](#how-to-get-a-mortgage-in-principle)  
+[What happens once you have a Mortgage in Principle?](#what-happens-once-you-have-a-mortgage-in-principle)  
+
 Each year in the UK over 300,000 of us secure a mortgage to buy our first home, and to do that we’ll need a **Mortgage in Principle.**
 
+# What is a Mortgage in Principle?
 In a nutshell, a Mortgage in Principle — sometimes called a MIP, Decision in Principle, DIP, or even an Agreement in Principle, in some necks of the woods — is a handy document that can be shown to estate agents to indicate the maximum amount you could borrow.
 
+# How to get a Mortgage in Principle
 **_If you haven’t got a Mortgage in Principle yet, you can get one in under five minutes [here.](https://apply.trussle.com/affordability-calculator)_**
 
 It’s important to know that a Mortgage in Principle is not a formal mortgage offer, nor a guarantee that you can borrow the amount stated; you’ll first need to be credit checked by your recommended lender.
 
 If you’ve already used Trussle to get your Mortgage in Principle, then the next step is to find and make an offer on your new home!
 
+# What happens once you have a Mortgage in Principle?
 ## Step 1: Find a property
 
 Property sites like Zoopla and Rightmove are great places to start your search. Once you’ve found a property you like the look of, you’ll want to arrange a viewing. It’ll take some trial and error, so don’t be put off if you haven’t fallen in love with a property after the first few viewings.
