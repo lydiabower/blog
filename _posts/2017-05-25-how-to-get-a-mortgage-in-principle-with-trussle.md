@@ -15,6 +15,8 @@ date: '2017-05-25 T00:00:00.000Z'
 [What is a Mortgage in Principle?](#what-is-a-mortgage-in-principle)  
 [How to apply for a Mortgage in Principle](#how-to-apply-for-a-mortgage-in-principle)  
 [How can Trussle help?](#how-can-trussle-help)  
+[Common questions about your Mortgage in Principle](#common-questions)  
+[Your property search with a Mortgage in Principle](#your-property-search-with-a-mortgage-in-principle)  
 
 Before you start looking for your dream home, it’s a good idea to get a Mortgage in Principle. A Mortgage in Principle tells you roughly how much you’ll be able to borrow, so you can start viewing and making offers on properties that are realistically within your budget.
 
