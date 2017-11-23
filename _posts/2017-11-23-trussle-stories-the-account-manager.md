@@ -3,15 +3,17 @@ published: false
 layout: post
 title: 'Trussle Stories: The Account Manager'
 excerpt: >-
-  Richard joined Trussle to make the most of the opportunities that come with a
-  small and fast-growing company.     
-thumbnail_filename: RichardSquare.jpg
+  We caught up with Milton, a buy-to-let landlord with a property in Sheffield,
+  who used Trussle to make remortgaging a hassle-free experience.     
+thumbnail_filename: SheffieldSquare.jpg
 author: Lydia Bower
 date: '2017-11-23 T00:00:00.000Z'
 ---
 Millions of homeowners are paying more than they need to for their mortgage, and we want to help those people switch to a more suitable deal. For may of them, the stress and hassle of finding a mortgage the first time round puts them off switching - even when they could be saving thousands. 
 
 We caught up with Milton, a buy-to-let landlord with a property in Sheffield, who used Trussle to make remortgaging a hassle-free experience. 
+
+![Sheffield]({{site.baseurl}}/images/post_images/Sheffield.jpg)
 
 ## A remortgaging professional
 Milton had owned his rental property in Sheffield for 15 years and remortgaged frequently during that time. Every time his initial term came to an end, he’d switch to a more suitable deal. 
