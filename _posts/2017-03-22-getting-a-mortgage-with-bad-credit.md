@@ -37,7 +37,7 @@ At the moment we can generally help those who fulfil the following criteria:
 In the last 6 years you haven’t:
 * had any late payments, defaults, or County Court Judgements (CCJs) on your mortgage
 * had your home repossessed
-* had an Individual Voluntary Agreement (IVA) (unless it was discharged more than three years ago, and you have a mortgage deposit of at least 20%)
+* had an Individual Voluntary Agreement (IVA) or Debt Management Plan (unless it was discharged more than three years ago, and you have a mortgage deposit of at least 20%)
 * declared bankruptcy (unless the bankruptcy was discharged more than three years ago, and you have a mortgage deposit of at least 20%)
 
 And in the last 3 years you haven’t:
@@ -97,4 +97,3 @@ Using different phone numbers and different job titles across credit application
 **8. Wait it out** 
 
 Serious financial issues like CCJs and loan defaults will stay on your report for six years. If you’re nearing the end of that period, it’s probably best to wait before applying for a mortgage. If you had a good reason for defaulting on a loan - for example you were seriously ill or lost your job - you can ask the credit agency to add a note to your file.
-
