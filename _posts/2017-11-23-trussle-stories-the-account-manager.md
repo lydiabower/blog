@@ -9,7 +9,7 @@ thumbnail_filename: SheffieldSquare.jpg
 author: Lydia Bower
 date: '2017-11-23 T00:00:00.000Z'
 ---
-Millions of homeowners are paying more than they need to for their mortgage, and we want to help those people switch to a more suitable deal. For may of them, the stress and hassle of finding a mortgage the first time round puts them off switching - even when they could be saving thousands. 
+Millions of homeowners are paying more than they need to for their mortgage, and we want to help those people switch to a more suitable deal. For many of them, the stress and hassle of finding a mortgage the first time round puts them off switching - even when they could be saving thousands. 
 
 We caught up with Milton, a buy-to-let landlord with a property in Sheffield, who used Trussle to make remortgaging a hassle-free experience. 
 
@@ -46,6 +46,3 @@ Milton decided to go ahead with his application.
 
 
 Glad we could help, Milton - and we look forward to helping you again in a couple of years time!
-
-
-
