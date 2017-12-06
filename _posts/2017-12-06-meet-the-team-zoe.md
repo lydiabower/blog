@@ -6,7 +6,7 @@ excerpt: >-
   Zoe was the only Product Manager and handled everything Product related solo,
   but now the team has grown, she's able to spend time thinking strategically
   about our overall business goals.      
-thumbnail_filename: oeSquare.png
+thumbnail_filename: ZoeSquare.png
 author: Lydia Bower
 date: '2017-12-06 T00:00:00.000Z'
 ---
