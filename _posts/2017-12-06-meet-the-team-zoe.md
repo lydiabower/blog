@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: >-
   Zoe’s been Trussle’s Head of Product since the early days. For a long time,
