@@ -54,4 +54,6 @@ If you ask most people here they’ll tell you I’m really nosey as I’m alway
 Then I really like [Memrise](https://www.memrise.com/) - I started using it to learn Turkish. I went to a talk their COO gave and they’ve done lots of research about how people best learn languages so they can take it in and continually learn. I find that side of languages really interesting. 
 
 ## What are you most proud of what you’ve achieved at Trussle?
-Generally the fact that we’ve built a 55-person strong business. I’m really proud to have been part of the team that’s made that happen. We’ve come such a long way since I first joined and it’s great to see that Trussle has come to fruition in a short space of time. 
+Generally the fact that we’ve built a 55-person strong business. I’m really proud to have been part of the team that’s made that happen. We’ve come such a long way since I first joined and it’s great to see that Trussle has come to fruition in a short space of time.
+
+_**Inspired by Zoe’s story? We’re hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle jobs") - we’d love to hear from you._
