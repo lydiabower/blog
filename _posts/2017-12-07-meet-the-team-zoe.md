@@ -11,7 +11,7 @@ thumbnail_filename: ZoeSquare.png
 author: Lydia Bower
 date: '2017-12-07 T00:00:00.000Z'
 ---
-Zoe’s been Trussle’s Head of Product since the early days. For a long time, Zoe was the only Product Manager and handled everything Product related solo. Now the Product team has grown to a cosy three, Zoe’s able to a) breathe a bit more and b) spend more time thinking strategically about our overall business goals. 
+_Zoe’s been Trussle’s Head of Product since the early days. For a long time, Zoe was the only Product Manager and handled everything Product related solo. Now the Product team has grown to a cosy three, Zoe’s able to a) breathe a bit more and b) spend more time thinking strategically about our overall business goals._ 
 
 ![Zoe]({{site.baseurl}}/images/post_images/Zoe.png)
 
