@@ -3,8 +3,10 @@ published: false
 layout: post
 title: 'Meet The Team: Zoe'
 excerpt: >-
-  We caught up with Milton, a buy-to-let landlord with a property in Sheffield,
-  who used Trussle to make remortgaging a hassle-free experience.     
+  Zoe’s been Trussle’s Head of Product since the early days and was the only
+  Product Manager for a long time. Now the Product team has grown to a cosy
+  three, Zoe’s been spending more time thinking strategically about our overall
+  business goals.    
 thumbnail_filename: ZoeSquare.png
 author: Lydia Bower
 date: '2017-12-07 T00:00:00.000Z'
